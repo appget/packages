@@ -8,6 +8,5 @@ args:
 installers:
 - location: https://dl.google.com/dl/earth/client/advanced/current/googleearthprowin-7.3.2.exe
   sha256: 55dbf1e07eeee2c115a083059dff483f748e6af5cb56c8f0ab7d71d95f14b346
-- location: https://dl.google.com/dl/earth/client/advanced/current/googleearthprowin-7.3.2-x64.exe
-  sha256: 3ba123edc9e8200a1140c272a79740df43d1a46bc90fed3b1b240d089c920a45
   architecture: x64
+  minWindowsVersion: 6.1
