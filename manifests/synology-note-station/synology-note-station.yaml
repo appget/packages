@@ -1,0 +1,9 @@
+id: synology-note-station
+name: Synology Note Station
+version: 2.1.5.259
+home: https://www.synology.com/en-us/dsm/feature/note_station
+installMethod: NSIS
+installers:
+- location: https://global.download.synology.com/download/Tools/NoteStationClient/2.1.5-259/Windows/x86_64/synology-note-station-2.1.5-259-win-x64-Setup.exe
+  sha256: c3170757e33e04f999939ec03ca5913dd77dc95676955510ee7fe1a962160e9e
+  architecture: x64
