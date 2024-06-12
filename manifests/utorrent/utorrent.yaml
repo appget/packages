@@ -1,0 +1,7 @@
+id: utorrent
+name: µTorrent
+version: 3.5.5.45271
+home: https://www.utorrent.com/
+installMethod: Custom
+installers:
+- location: https://download-hr.utorrent.com/track/stable/endpoint/utorrent/os/windows
