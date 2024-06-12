@@ -1,0 +1,8 @@
+id: adobe-reader-it
+name: AdobeRederDC-ITA
+version: 19.8.20071.303822
+home: https://www.adobe.com/
+installMethod: Custom
+installers:
+- location: http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/1900820071/AcroRdrDC1900820071_it_IT.exe
+  sha256: 9ce13cb9c4b61f6dc6165ee37e06409e919d29dd524486939ce8ad34d2c77542
