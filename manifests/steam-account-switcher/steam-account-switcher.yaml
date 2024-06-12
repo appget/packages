@@ -1,0 +1,9 @@
+id: steam-account-switcher
+name: Steam Account Switcher
+version: 1.1.0
+home: https://github.com/W3D3/SteamAccountSwitcher
+repo: https://github.com/W3D3/SteamAccountSwitcher/
+installMethod: Custom
+installers:
+- location: https://github.com/W3D3/SteamAccountSwitcher/releases/download/1.1/SteamAccountSwitcherSetup1.1.exe
+  sha256: def16f47d2076a7a3b558c16a46ffaa4640d5c35e0fd367f63ac905e3c3e270b
