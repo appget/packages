@@ -1,0 +1,7 @@
+id: java-platform-se-8-u231
+name: Java Platform SE 8 U231
+version: 8.0.2310.11
+home: https://oracle.com/
+installMethod: Custom
+installers:
+- location: https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240697_5b13a193868b4bf28bcb45c792fce896
