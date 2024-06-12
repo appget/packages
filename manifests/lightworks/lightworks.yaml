@@ -4,8 +4,8 @@ version: 14.5.0
 home: https://www.lwks.com/
 installMethod: NSIS
 installers:
-- location: https://downloads.lwks.com/v14-5-new/lightworks_v14.5.0_full_32bit_setup.exe
-  sha256: baef273a0692005985407621b8bfddbe24f5db2cf3977569379c42599261bf22
-- location: https://downloads.lwks.com/v14-5-new/lightworks_v14.5.0_full_64bit_setup.exe
-  sha256: 0065f8e968f2fa1e123eb1b8e86d55fb278ce43e84fb25f7f3473ca23948574a
+- location: https://downloads.lwks.com/v14-5/lightworks_v14.5.0_full_32bit_setup.exe
+  sha256: a921c043b01d8804fc1365580a4cf29a4022d1812d1d5101d33eccc5fc978921
+- location: https://downloads.lwks.com/v14-5/lightworks_v14.5.0_full_64bit_setup.exe
+  sha256: 55b75aa1d8c35a49920576f59c4a9f336c9fa0498c8a0c580e2c2004ece594af
   architecture: x64
