@@ -6,8 +6,8 @@ repo: https://github.com/mpc-hc/mpc-hc/
 license: GNU General Public License v3.0
 installMethod: Inno
 installers:
-- location: https://binaries.mpc-hc.org/MPC HomeCinema - Win32/MPC-HC_v1.7.13_x86/MPC-HC.1.7.13.x86.exe
+- location: https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC.1.7.13.x86.exe
   sha256: ba6f1f617e9c4d3ce535a85c2fcda39e66fc13781f4cf6197fe802994d71f0ec
-- location: https://binaries.mpc-hc.org/MPC HomeCinema - x64/MPC-HC_v1.7.13_x64/MPC-HC.1.7.13.x64.exe
+- location: https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC.1.7.13.x64.exe
   sha256: f84b347c75f650bff85c855b170ddb86ec72f025e6c7769387f2c999efd09d32
   architecture: x64
