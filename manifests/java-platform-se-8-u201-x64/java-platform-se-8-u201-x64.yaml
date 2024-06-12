@@ -1,0 +1,8 @@
+id: java-platform-se-8-u201-x64
+name: Java Platform SE 8 U201 x64
+version: 8.0.2010.9
+home: https://oracle.com/
+installMethod: Custom
+installers:
+- location: https://javadl.oracle.com/webapps/download/AutoDL?BundleId=236888_42970487e3af4f5aa5bca3f542482c60
+  architecture: x64
