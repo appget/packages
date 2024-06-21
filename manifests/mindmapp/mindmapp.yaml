@@ -1,10 +1,10 @@
 id: mindmapp
 name: Mindmapp
-version: 0.7.16.54
-home: https://mindmapp.cedoor.org/
+version: 3.1.0
+home: https://mindmapp.cedoor.dev/
 repo: https://github.com/Mindmapp/mindmapp/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/Mindmapp/mindmapp/releases/download/v0.7.16/Mindmapp-0.7.16.exe
-  sha256: 6c82155d0df7cfdb113c41ff796a04138058aa652f01d11d883be334d6fd720e
+- location: https://github.com/samuelmeuli/mini-diary/releases/download/v3.1.0/Mini-Diary-Setup-3.1.0.exe
+  sha256: 9d886529bdb60a8794fa8f33617f9e903e792fa698de6f72092a04a95f8faf75
