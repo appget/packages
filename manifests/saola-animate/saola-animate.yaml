@@ -1,8 +1,8 @@
 id: saola-animate
-name: Saola Animate
-version: 2.5.0
+name: ActivePresenter
+version: 7.5.9
 home: https://atomisystems.com/saola-animate/
 installMethod: Inno
 installers:
-- location: https://cdn.atomisystems.com/apdownloads/saola/Saola-Animate_v2.5.0_setup.exe
-  sha256: b282171b3a7d9b994047e094b613fcbc4a3649db5f9ea6345c88afecaba1d367
+- location: https://cdn.atomisystems.com/apdownloads/ActivePresenter_v7.5.9_setup.exe
+  sha256: 5ec30c6f2fb29b0772878c751775d48e1c749cbc4e6cb09b87a5c594e9ac6b26
