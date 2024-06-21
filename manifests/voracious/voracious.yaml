@@ -1,0 +1,11 @@
+id: voracious
+name: Voracious
+version: 0.6.0
+home: https://voracious.app/
+repo: https://github.com/rsimmons/voracious/
+license: MIT License
+installMethod: NSIS
+installers:
+- location: https://github.com/rsimmons/voracious/releases/download/v0.6.0/Voracious-0.6.0-windows-installer.exe
+  sha256: ab4b11d535d0b125e93f6f3dda1bf1d1e0b9942be375cb00343b025bc717554c
+  architecture: x64
