@@ -1,7 +1,7 @@
 id: triggercmdagent
 name: TRIGGERcmdAgent
 version: 1.0.22
-home: https://www.triggercmd.com
+home: https://www.triggercmd.com/
 installMethod: Squirrel
 installers:
 - location: https://s3.amazonaws.com/triggercmdagents/TRIGGERcmdAgentSetup.exe
