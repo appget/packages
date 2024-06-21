@@ -1,0 +1,9 @@
+id: boost-note
+name: Boost Note
+version: 0.1.3
+home: https://boostnote.io/
+repo: https://github.com/BoostIO/BoostNote.next/
+installMethod: NSIS
+installers:
+- location: https://github.com/BoostIO/BoostNote.next/releases/download/v0.1.3/boost-note-win.exe
+  sha256: 06168df8f303ac65143d386a8dc3245a7a3bb7e1d36a9a3c30cc013b51a10a14
