@@ -1,8 +1,8 @@
 id: icloud
 name: iCloud
-version: 7.17.0.13
+version: 7.18.0.22
 home: https://support.apple.com/en-us/HT204283
 installMethod: Custom
 installers:
-- location: http://updates-http.cdn-apple.com/2020/windows/061-61608-20200122-4464F20E-3D7D-11EA-ADA8-880F4463EB08/iCloudSetup.exe
-  sha256: 9d736f3f0f8866b2f9feb67f0702392b259ad2c40a3711c1e6779aaded2df308
+- location: https://secure-appldnld.apple.com/windows/061-91601-20200323-974a39d0-41fc-4761-b571-318b7d9205ed/iCloudSetup.exe
+  sha256: 1100052f27c8ebf6eea57b05682eb4a5a75efd50d7ed1c943bd0108acdc5e692
