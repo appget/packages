@@ -1,0 +1,8 @@
+id: gameloop
+name: Gameloop
+version: 11.0.16777.224
+home: https://qq.com/
+installMethod: Custom
+installers:
+- location: https://dldir1.qq.com/syzs/gamedownload_i18n_900205975_SpecialPackage_copy_1029.exe
+  sha256: ce1e4698148404ed4953e316d1daf5f43a68ecadc8ee329d91193095a1781c67
