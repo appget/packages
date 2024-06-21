@@ -1,0 +1,12 @@
+id: winfetch
+name: Winfetch
+version: 1.2.0
+home: https://github.com/lptstr/winfetch
+repo: https://github.com/lptstr/winfetch/
+license: MIT License
+installMethod: Custom
+installers:
+- location: https://github.com/lptstr/winfetch/archive/v1.2.0.zip
+  sha256: bd9463913d38c5241c8598e21eda5fdc8d37959a16b86e537622675ab3cb0635
+  architecture: x64
+  minWindowsVersion: 10.0
