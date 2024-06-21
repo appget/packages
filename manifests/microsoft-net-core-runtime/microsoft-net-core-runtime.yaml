@@ -1,0 +1,13 @@
+id: microsoft-net-core-runtime
+name: Microsoft .NET Core Runtime
+version: 2.2.2.27318
+home: https://dot.net/core
+installMethod: Wix
+installers:
+- location: https://download.visualstudio.microsoft.com/download/pr/9d7b48a7-74a0-4726-946f-2474b36ec335/ac9898e18e0835445d3c67724b569a54/dotnet-runtime-2.2.2-win-x86.exe
+  sha256: 16b5fcd7e8a6826cd1d9643e0dde7233e4ce333d41fefb604bb9ce96e4ae072c
+  minWindowsVersion: 6.1
+- location: https://download.visualstudio.microsoft.com/download/pr/04fedce4-d7ed-4bef-9151-95e3b02d12bc/1037ed3d387cfe9b712a5625fbac0eb9/dotnet-runtime-2.2.2-win-x64.exe
+  sha256: 66a1709583ffea59b8edd3ef67db55f1e31048275ca807398d37ccbd7498a615
+  architecture: x64
+  minWindowsVersion: 6.1
