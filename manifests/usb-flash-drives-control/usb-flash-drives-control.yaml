@@ -1,0 +1,7 @@
+id: usb-flash-drives-control
+name: USB Flash Drives Control
+version: 4.1.0
+home: https://www.binisoft.org/usbc
+installMethod: Custom
+installers:
+- location: https://www.binisoft.org/download/usbc4setup.exe
