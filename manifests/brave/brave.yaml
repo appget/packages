@@ -1,12 +1,8 @@
 id: brave
-name: Brave
-version: 0.25.2
-home: https://www.brave.com/
-repo: https://github.com/brave/browser-laptop/
-installMethod: Squirrel
+name: Brave Browser
+version: 1.3.99
+home: https://brave.com/
+installMethod: Custom
 installers:
-- location: https://github.com/brave/browser-laptop/releases/download/v0.25.2dev/BraveSetup-ia32.exe
-  sha256: 36ffd8b1561b6c69d36a2184b4210a0bbb9b67f18da8d0f76847deb540fcadfe
-- location: https://github.com/brave/browser-laptop/releases/download/v0.25.2dev/BraveSetup-x64.exe
-  sha256: ec643ec734b761d02bee02b3ae7343eeab2703ac44105bb0f87b3e7ffb17467d
+- location: https://laptop-updates.brave.com/latest/winx64
   architecture: x64
