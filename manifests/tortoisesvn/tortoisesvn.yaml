@@ -1,12 +1,11 @@
 id: tortoisesvn
 name: TortoiseSVN
-version: 1.10.2.28392
+version: 1.12.0.28568
 home: https://tortoisesvn.net/
-repo: https://sourceforge.net/projects/tortoisesvn/
 installMethod: MSI
 installers:
-- location: https://osdn.net/projects/tortoisesvn/storage/1.10.2/Application/TortoiseSVN-1.10.2.28392-win32-svn-1.10.3.msi
-  sha256: bf921520cc4114be67fb8cad751505025491522391798b9920aada6028731174
-- location: https://osdn.net/projects/tortoisesvn/storage/1.10.2/Application/TortoiseSVN-1.10.2.28392-x64-svn-1.10.3.msi
-  sha256: 64f4386691a9f3b145aadde0d0c8771203df78d050b67a0f8a9b7e6b1d80ba78
+- location: https://osdn.net/frs/redir.php?m=constant&f=%2Fstorage%2Fg%2Ft%2Fto%2Ftortoisesvn%2F1.12.0%2FApplication%2FTortoiseSVN-1.12.0.28568-win32-svn-1.12.0.msi
+  sha256: 9716fe4e8d20e4da41f2eee09dd78d1a226e63f5f88b720055b13a0ddf25fe88
+- location: https://osdn.net/frs/redir.php?m=pumath&f=%2Fstorage%2Fg%2Ft%2Fto%2Ftortoisesvn%2F1.12.0%2FApplication%2FTortoiseSVN-1.12.0.28568-x64-svn-1.12.0.msi
+  sha256: 4234aebcd04507e8b8ed6e2145d38fa4ad1ae0a80d5135e014104e98c3c0b11a
   architecture: x64
