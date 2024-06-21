@@ -1,0 +1,8 @@
+id: vnc-viewer
+name: RealVNC VNC Viewer
+version: 6.20.113
+home: https://www.realvnc.com/
+installMethod: Custom
+installers:
+- location: https://www.realvnc.com/download/file/viewer.files/VNC-Viewer-6.20.113-Windows.exe
+  sha256: c993a515379bd54add8f9ce13222fe2f864c0e24bb0429780508f1d6ab204583
