@@ -1,0 +1,8 @@
+id: wincdemu
+name: WinCDEmu
+version: 4.1
+home: http://wincdemu.sysprogs.org/
+installMethod: Custom
+installers:
+- location: https://sysprogs.com/files/WinCDEmu/WinCDEmu-4.1.exe
+  sha256: 7716e2e5165402bc3337147ee555bc1b4641fe5fdfdc72329e08753697fe1b90
