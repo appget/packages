@@ -1,8 +1,7 @@
 id: trillian
 name: Trillian
-version: 6.1.0016
+version: 6.3.0.5
 home: https://www.trillian.im/
-installMethod: MSI
+installMethod: Custom
 installers:
-- location: https://www.trillian.im/get/windows/6.1/msi/
-  sha256: a4ffdaf00bdeef9cace62faac6bad9645b8942f770695bf658ba1db1822767a5
+- location: https://www.trillian.im/get/windows/
