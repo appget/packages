@@ -1,0 +1,8 @@
+id: free2x-dvd-photo-slideshow
+name: Free2X DVD Photo Slideshow
+version: 1.0.0.1
+home: http://www.free2x.com/
+installMethod: Inno
+installers:
+- location: http://www.free2x.com/dvd-photo-slideshow/dvd-photo-slideshow-setup.exe
+  minWindowsVersion: 10.0
