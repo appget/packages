@@ -1,11 +1,11 @@
 id: persepolis
-name: Persepolis
-version: 3.2.0
+name: Persepolis Download Manager
+version: 3.2.0.0
 home: https://persepolisdm.github.io/
+repo: https://github.com/persepolisdm/persepolis/
+license: GNU General Public License v3.0
 installMethod: Inno
 installers:
 - location: https://github.com/persepolisdm/persepolis/releases/download/3.2.0/persepolis_3.2.0.0_windows_64bit.exe
   sha256: 3e1d5b1b129fa1b4931a01720230afc88952a33316e0d8927c16fb429188fd20
-- location: https://github.com/persepolisdm/persepolis/releases/download/3.2.0/persepolis_3.2.0.0_windows_32bit.exe
-  sha256: 557269eba62eb97a441a718956def6769be9e77264fcf51bf71821ffc343980c
-  architecture: x64 
+  architecture: x64
