@@ -1,0 +1,9 @@
+id: jdownloader
+name: JDownloader
+version: 2.0
+home: https://jdownloader.org/
+installMethod: Custom
+installers:
+- location: http://installer.jdownloader.org/ic/JD2SilentSetup_x86.exe
+- location: http://installer.jdownloader.org/ic/JD2SilentSetup_x64.exe
+  architecture: x64
