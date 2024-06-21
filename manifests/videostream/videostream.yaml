@@ -1,0 +1,9 @@
+id: videostream
+name: Videostream
+version: 0.3.6
+home: https://getvideostream.com/
+installMethod: Squirrel
+installers:
+- location: https://cdn.getvideostream.com/videostream-native-updates/windows/x86/Setup.exe
+- location: https://cdn.getvideostream.com/videostream-native-updates/windows/x64/Setup.exe
+  architecture: x64
