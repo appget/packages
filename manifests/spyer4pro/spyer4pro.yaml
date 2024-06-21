@@ -1,0 +1,7 @@
+id: spyer4pro
+name: Spyder4Pro
+version: 4.5.9
+home: https://www.datacolor.com/
+installMethod: Custom
+installers:
+- location: http://goto.datacolor.com/download/win/Spyder4Pro
