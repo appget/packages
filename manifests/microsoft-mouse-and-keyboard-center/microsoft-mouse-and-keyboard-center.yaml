@@ -1,0 +1,9 @@
+id: microsoft-mouse-and-keyboard-center
+name: Microsoft Mouse and Keyboard Center
+version: 6.2.0029
+home: https://www.microsoft.com/accessories/en-us/downloads/mouse-keyboard-center
+installMethod: Custom
+installers:
+- location: https://go.microsoft.com/fwlink/?linkid=849755
+- location: https://go.microsoft.com/fwlink/?linkid=849754
+  architecture: x64
