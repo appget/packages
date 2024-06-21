@@ -1,7 +1,7 @@
 id: magnifixer
 name: Magnifixer
-version: 6.3
-home: http://www.blacksunsoftware.com/screenmagnifier.html
+version: 10.0
+home: https://www.blacksunsoftware.com/screenmagnifier.html
 installMethod: Inno
 installers:
 - location: https://www.blacksunsoftware.com/downloads/Magnifixersetup.exe
