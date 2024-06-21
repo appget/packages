@@ -1,0 +1,7 @@
+id: driveimage-xml
+name: DriveImage XML
+version: 2.60
+home: http://www.runtime.org/driveimage-xml.htm
+installMethod: Custom
+installers:
+- location: https://www.runtime.org/dixmlsetup.exe
