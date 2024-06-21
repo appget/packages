@@ -1,7 +1,7 @@
 id: gravit-designer
-name: Gravit Designer
-version: 3.5.28.3965
+name: WizTree
+version: 3.30
 home: https://gravit.io/
-installMethod: NSIS
+installMethod: Inno
 installers:
 - location: https://designer.gravit.io/_downloads/windows/GravitDesignerInstaller.exe
