@@ -1,0 +1,8 @@
+id: free2x-sound-recorder
+name: Free2X Sound Recorder
+version: 1.0.0.1
+home: http://www.free2x.com/sound-recorder/
+installMethod: Inno
+installers:
+- location: http://www.free2x.com/sound-recorder/soundrecordersetup.exe
+  minWindowsVersion: 10.0
