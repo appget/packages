@@ -1,0 +1,10 @@
+id: dell-emc-idrac-tools
+name: Dell EMC iDRAC Tools for Microsoft Windows Server
+version: 9.4.0
+home: https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=2v013
+installMethod: Custom
+installers:
+- location: https://dl.dell.com/FOLDER05920776M/1/DellEMC-iDRACTools-Web-WINX64-9.4.0-3732_A00.exe
+  sha256: 2e4362bbf4e83b7a98cf5ff714a73b56f0a285acc1eb8de561d961f684c84a65
+  architecture: x64
+  minWindowsVersion: 10.0
