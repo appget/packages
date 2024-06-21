@@ -1,0 +1,8 @@
+id: logitech-alert-commander
+name: Logitech Alert Commander
+version: 3.5.97
+home: https://support.logitech.com/en_us/software/alert-software
+installMethod: Custom
+installers:
+- location: https://download01.logi.com/web/ftp/pub/video/securitycameras/LogitechAlertCommander_3.5.97.exe
+  sha256: cef7e34343ebb294f35addf82d8cbe1bc4fec193953d7ecfff988e442988ee57
