@@ -1,0 +1,11 @@
+id: bravesoftware
+name: BraveSoftware
+version: 1.10.31
+home: https://brave.com/
+repo: https://github.com/brave/brave-browser/
+license: Mozilla Public License 2.0
+installMethod: Custom
+installers:
+- location: https://github.com/brave/brave-browser/releases/download/v1.10.31/BraveBrowserNightlySetup.exe
+  sha256: e3b0c3dbc1ab6150b3d85ec4783246cfa9227adbaa09ff8efd2b4c30110233bd
+  architecture: x64
