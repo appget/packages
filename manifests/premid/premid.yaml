@@ -1,7 +1,7 @@
 id: premid
 name: PreMiD
 version: 2.0.1.2
-home: https://premid.app/
+home: https://beta.premid.app/
 repo: https://github.com/PreMiD/PreMiD/
 license: Mozilla Public License 2.0
 installMethod: InstallBuilder
