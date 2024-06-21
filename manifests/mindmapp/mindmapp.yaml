@@ -1,7 +1,7 @@
 id: mindmapp
 name: Mindmapp
 version: 0.7.16.54
-home: https://mindmapp.cedoor.org/
+home: https://mindmapp.cedoor.dev/
 repo: https://github.com/Mindmapp/mindmapp/
 license: MIT License
 installMethod: NSIS
