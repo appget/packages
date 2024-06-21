@@ -1,6 +1,7 @@
 id: remote-desktop-connection-manager
 name: Remote Desktop Connection Manager
 version: 2.7.14060
+home: https://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=4603c621-6de7-4ccb-9f51-d53dc7e48047
 installMethod: MSI
 installers:
 - location: https://download.microsoft.com/download/A/F/0/AF0071F3-B198-4A35-AA90-C68D103BDCCF/rdcman.msi
