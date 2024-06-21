@@ -1,0 +1,11 @@
+id: rufus
+name: Rufus
+version: 3.5
+home: https://rufus.ie/
+repo: https://github.com/pbatard/rufus/
+license: GNU General Public License v3.0
+installMethod: Custom
+installers:
+- location: https://github.com/pbatard/rufus/releases/download/v3.5/Rufus-3.5.appx
+  sha256: e80e8ca6f6442da412fca7defaa1a161015dbc7ec5b6be061378f0ff56fca538
+  minWindowsVersion: 10.0
