@@ -1,0 +1,10 @@
+id: winfuse
+name: WinFuse
+version: 0.1.19352
+home: https://github.com/billziss-gh/winfuse
+repo: https://github.com/billziss-gh/winfuse/
+installMethod: MSI
+installers:
+- location: https://github.com/billziss-gh/winfuse/releases/download/v0.1/winfuse-0.1.19352-x64.msi
+  sha256: 02f7f5c8c36e7d3c6abae9634980026c6077fb5efba0d03b638f844234cbf4fb
+  architecture: x64
