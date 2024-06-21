@@ -1,0 +1,7 @@
+id: adobe-creative-cloud
+name: Adobe Creative Cloud
+version: 5.0.0.345
+home: https://www.adobe.com/
+installMethod: Custom
+installers:
+- location: https://prod-rel-ffc-ccm.oobesaas.adobe.com/adobe-ffc-external/core/v1/wam/download?sapCode=KCCC
