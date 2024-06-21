@@ -1,0 +1,7 @@
+id: filecloudsync
+name: FileCloudSync
+version: 19.3.0.2719
+home: https://www.getfilecloud.com/
+installMethod: Inno
+installers:
+- location: http://patch.codelathe.com/tonido/live/installer/x86-win32/FileCloudSyncSetup.exe
