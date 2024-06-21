@@ -1,8 +1,8 @@
 id: westeroscraft-launcher
 name: WesterosCraft Launcher
-version: 1.6.0.277
-repo: https://github.com/dscalzi/ElectronLauncher/
+version: 1.7.0
+repo: https://github.com/dscalzi/HeliosLauncher/
 installMethod: NSIS
 installers:
-- location: https://github.com/WesterosCraftCode/ElectronLauncher/releases/download/v1.6.0/westeroscraftlauncher-setup-1.6.0.exe
-  sha256: 1bf1aad6e169436ce1c42267c604a038c1496e3fcfde7d128363882264b85aee
+- location: https://github.com/WesterosCraft/ElectronLauncher/releases/download/v1.7.0/westeroscraftlauncher-1.7.0.exe
+  sha256: 9f73b5fdc4b9ab341e5757a119f22d22132987f4c0da15f85cfb1a8fbb418aba
