@@ -1,10 +1,10 @@
 id: ghostwriter
 name: ghostwriter
-version: 1.7.1
-home: https://wereturtle.github.io/ghostwriter/
-repo: https://github.com/wereturtle/ghostwriter/
-license: GNU General Public License v3.0
+version: 1.8.0
+home: https://github.com/michelolvera/vs-ghostwriter/
+repo: https://github.com/michelolvera/vs-ghostwriter/
 installMethod: Inno
 installers:
-- location: https://github.com/wereturtle/ghostwriter/releases/download/v1.7.1/ghostwriter-v1.7.1-setup.exe
-  sha256: 32c5d0781883874f90b2c501082ac95c86e5a1c36fb45093a49ad8d0157f1761
+- location: https://github.com/michelolvera/vs-ghostwriter/releases/download/1.8.0/ghostwriter_x64_installer.exe
+  sha256: c5421f706415f9f6f2b299993170eabb19f76c73d0e9b472b2a48d0282384b74
+  architecture: x64
