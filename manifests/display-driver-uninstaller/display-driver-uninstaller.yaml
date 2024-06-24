@@ -1,0 +1,9 @@
+id: display-driver-uninstaller
+name: Display Driver Uninstaller
+version: 18.0.1.9
+home: https://www.wagnardsoft.com/
+installMethod: Custom
+installers:
+- location: https://www.wagnardsoft.com/DDU/download/DDU v18.0.1.9.exe
+  sha256: 0426782f4acf9288bc8e6f5352243621e7f8ccaa1282ff6c13c76aff76a83493
+  minWindowsVersion: 6.1
