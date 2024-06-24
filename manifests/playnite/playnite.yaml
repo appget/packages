@@ -1,8 +1,8 @@
 id: playnite
 name: Playnite
-version: 7.5
+version: 7.7
 home: https://playnite.link/
 installMethod: Inno
 installers:
-- location: https://playnite.link/update/stable/7.5/Playnite75.exe
-  sha256: 8426fae08601a303e5a87bba098df07ffcfa9aa0478ff99018fa5b4444ef8c19
+- location: https://playnite.link/update/stable/7.7/Playnite77.exe
+  sha256: b05c193ec46eab548e2288f7cd350aa3d4b65377e07196f54e1ddac90fb4224d
