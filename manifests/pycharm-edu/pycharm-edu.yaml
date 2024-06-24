@@ -1,8 +1,8 @@
 id: pycharm-edu
 name: PyCharm Edu
-version: 193.6494.69
+version: 201.6668.147
 home: https://www.jetbrains.com/pycharm-edu/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/python/pycharm-edu-2019.3.4.exe
-  sha256: b86b92c27a513755bf65f92ba5dc8dcc4ceebd4aa0602e80a8c163d87179ce96
+- location: https://download.jetbrains.com/python/pycharm-edu-2020.1.exe
+  sha256: bc053c9ca95505f7a45cda8d947c9537925df256986fcd2645dcb1a1a1e5c878
