@@ -1,0 +1,8 @@
+id: chapter-and-verse
+name: Chapter and Verse
+version: 1.5.3
+home: http://lodensoftware.com/
+installMethod: Custom
+installers:
+- location: http://lodensoftware.com/download/Chapter_and_Verse_V1_5_3_0.exe
+  sha256: 336a9e8ef768eb00421a7af5ca2ac0be3079e29506ef7a0ff22b5f9a2e55a826
