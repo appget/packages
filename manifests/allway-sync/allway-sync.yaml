@@ -2,7 +2,7 @@ id: allway-sync
 name: Allway Sync
 version: 20.0.5
 home: https://allwaysync.com/
-installMethod: Inno
+installMethod: Wix
 installers:
 - location: https://allwaysync.com/content/download/allwaysync.exe
 - location: https://allwaysync.com/content/download/allwaysync-x64.exe
