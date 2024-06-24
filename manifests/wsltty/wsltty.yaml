@@ -1,0 +1,9 @@
+id: wsltty
+name: WSKtty
+version: 11.00.9600.16428
+home: https://github.com/mintty/wsltty/
+repo: https://github.com/mintty/wsltty/
+installMethod: Custom
+installers:
+- location: https://github.com/mintty/wsltty/releases/download/3.0.0/wsltty-3.0.0-install.exe
+  sha256: 247c6671aea8f45c2492f97d75521f7be0a272f3dfabbdaf67affcddedcbf81f
