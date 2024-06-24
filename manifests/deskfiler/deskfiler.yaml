@@ -1,0 +1,10 @@
+id: deskfiler
+name: Deskfiler
+version: 1.2.3
+home: https://www.deskfiler.org/
+repo: https://github.com/deskfiler/deskfiler/
+license: GNU General Public License v3.0
+installMethod: NSIS
+installers:
+- location: https://github.com/deskfiler/deskfiler/releases/download/v1.2.3/Deskfiler-Setup-1.2.3.exe
+  sha256: d333ea68f574dc8ad07905a44cda54afe149eec1468d2be6027d770b515b0bab
