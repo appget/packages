@@ -1,9 +1,8 @@
 id: raidrive
 name: RaiDrive
-version: 2019.11.29
+version: 2019.12.22
 home: https://www.raidrive.com/
 installMethod: AdvancedInstaller
 installers:
-- location: https://asset.raidrive.com/download/RaiDrive_2019.11.29.exe
-  sha256: f1ed5cecaf38e8bb035d8f30e4ba4747d82a23d1efb492829238aa88f8012819
-  architecture: x64
+- location: https://raidriveassetcool190208.blob.core.windows.net/download/RaiDrive_2019.12.22.exe?sp=r&amp;st=2019-12-23T09:21:25Z&amp;se=2019-12-26T17:21:25Z&amp;spr=https&amp;sv=2019-02-02&amp;sr=b&amp;sig=Y9A2tbab8Wxv4m8nKFs3uvy20f74H%2FeRjeNZbLSv8t4%3D
+  sha256: dcbf4adc85b20867dd33061b7c1686541b8bcbc6acae783a330dbaf689db6383
