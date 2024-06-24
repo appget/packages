@@ -1,0 +1,9 @@
+id: wsltty
+name: WSLtty
+version: 3.0.1.2
+home: https://github.com/mintty/wsltty
+repo: https://github.com/mintty/wsltty/
+installMethod: Custom
+installers:
+- location: https://github.com/mintty/wsltty/releases/download/3.0.1.2/wsltty-3.0.1.2-install.exe
+  sha256: 8ba179890a47e41794f47dad674f92dbc747fefef3e6321bcef3956687914088
