@@ -1,7 +1,7 @@
 id: pdfedit
 name: PDFedit
 version: 4.5.0
-home: http://pdfedit.cz
+home: http://pdfedit.cz/
 repo: https://sourceforge.net/projects/pdfedit/
 installMethod: MSI
 installers:
