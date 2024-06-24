@@ -1,7 +1,7 @@
 id: mlink
 name: mLink
 version: 1.0.0
-home: https://www.mblock.cc/
+home: https://www.makeblock.com/
 installMethod: Inno
 installers:
 - location: https://mblockapp.oss-cn-hongkong.aliyuncs.com/mblock5/win32/mLinkSetup.exe
