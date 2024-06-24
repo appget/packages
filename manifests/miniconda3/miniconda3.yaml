@@ -1,0 +1,10 @@
+id: miniconda3
+name: Miniconda3
+version: 4.7.12.1
+home: https://www.anaconda.com/
+installMethod: NSIS
+installers:
+- location: https://repo.anaconda.com/miniconda/Miniconda3-4.7.12.1-Windows-x86.exe
+  sha256: 7c30778941d2bba03531ba269a78a108b01fa366530290376e7c3b467f3c66ba
+- location: https://repo.anaconda.com/miniconda/Miniconda3-4.7.12.1-Windows-x86_64.exe
+  architecture: x64
