@@ -1,0 +1,10 @@
+id: python
+name: Python
+version: 2.2.2
+home: https://www.python.org/
+repo: https://github.com/python/cpython/
+license: Python Software Foundation License
+installMethod: Custom
+installers:
+- location: https://www.python.org/ftp/python/2.2.2/Python-2.2.2.exe
+  sha256: 101bc7032f154ec815737e6155ac4775de82d29ae5dddd340389ccaa6566925f
