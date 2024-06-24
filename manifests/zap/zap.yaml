@@ -1,0 +1,9 @@
+id: zap
+name: Zap
+version: 0.4.0
+repo: https://github.com/LN-Zap/zap-desktop/
+license: MIT License
+installMethod: NSIS
+installers:
+- location: https://github.com/LN-Zap/zap-desktop/releases/download/v0.4.0-beta/Zap-win32-v0.4.0-beta.exe
+  sha256: 0f7d346549a460ab792b7cbddac029bc8483d6d63e3c7687b0bca25b2c8bb622
