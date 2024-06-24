@@ -1,0 +1,11 @@
+id: julia
+name: Julia
+version: 1.1.1
+home: https://julialang.org/
+installMethod: Custom
+installers:
+- location: https://julialang-s3.julialang.org/bin/winnt/x86/1.1/julia-1.1.1-win32.exe
+  sha256: 98fdd6977371ae983e7e9fc0e8171f52b6d267564a822f480a7c4e1ed111b995
+- location: https://julialang-s3.julialang.org/bin/winnt/x64/1.1/julia-1.1.1-win64.exe
+  sha256: 26f980a1dd0d93a38c4a5b7e397210a761efed1f87caadc1a7066bb8ab12efab
+  architecture: x64
