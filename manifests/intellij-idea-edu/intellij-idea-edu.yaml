@@ -1,0 +1,8 @@
+id: intellij-idea-edu
+name: IntelliJ IDEA Edu
+version: 193.6494.68
+home: https://www.jetbrains.com/pycharm-edu/
+installMethod: NSIS
+installers:
+- location: https://download.jetbrains.com/idea/ideaIE-2019.3.3.exe
+  sha256: e0765145711d650590747fe31e6dd975a9de3fd5fb118c1278a526b884a4a310
