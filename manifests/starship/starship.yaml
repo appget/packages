@@ -1,0 +1,10 @@
+id: starship
+name: Starship
+version: 0.32.2
+home: https://starship.rs/
+repo: https://github.com/starship/starship/
+license: ISC License
+installMethod: Custom
+installers:
+- location: https://github.com/starship/starship/releases/download/v0.32.2/starship-x86_64-pc-windows-msvc.zip
+  sha256: f623c96889e382a1ec257ce3f6502c76a0ae434955d9dbb9cb77badc1da42f11
