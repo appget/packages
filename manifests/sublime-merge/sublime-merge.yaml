@@ -1,0 +1,9 @@
+id: sublime-merge
+name: Sublime Merge
+version: 1119
+home: https://www.sublimemerge.com/
+installMethod: Inno
+installers:
+- location: https://download.sublimetext.com/sublime_merge_build_1119_x64_setup.exe
+  sha256: f338c55f522f4dde05f775a43eaba89ba43300d71798c1ed9017e8b5ef58efa5
+  architecture: x64
