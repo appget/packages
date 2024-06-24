@@ -1,7 +1,9 @@
 id: svg-explorer-extension
 name: SVG Explorer Extension
 version: 0.1.1
+home: http://www.dotzdev.com/
 repo: https://github.com/maphew/svg-explorer-extension/
+license: GNU Lesser General Public License v3.0
 installMethod: Inno
 installers:
 - location: https://github.com/maphew/svg-explorer-extension/releases/download/v0.1.1/dssee_setup_i386_v011_signed.exe
