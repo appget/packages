@@ -5,5 +5,5 @@ home: https://workflowy.com/
 repo: https://github.com/workflowy/desktop/
 installMethod: NSIS
 installers:
-- location: https://github.com/workflowy/desktop/releases/download/v1.3.5-7218/WorkFlowy-Installer.exe
-  sha256: 6377499a1f1bc09f31659158559d0da909c43b0a3e44b2630164331dc4771c21
+- location: https://github.com/workflowy/desktop/releases/download/v1.3.5-7379/WorkFlowy-Installer.exe
+  sha256: ef3de1a6a7c43fe2768022e2fe6abf397a320266fa6056f2db7fc8ed06af67da
