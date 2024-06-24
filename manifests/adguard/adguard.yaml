@@ -1,0 +1,8 @@
+id: adguard
+name: AdGaurd
+version: 1.0
+home: https://adguard.com/
+installMethod: Custom
+installers:
+- location: https://download.adguard.com/d/18673/adguardInstaller.exe
+  sha256: 397b7c7e17bc8e99457ba0cff900b6624908a85e2e69c671b5c4d9816d14a75a
