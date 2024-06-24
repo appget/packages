@@ -1,0 +1,9 @@
+id: rvtools
+name: RVTools
+version: 3.11.9
+home: https://www.robware.net/rvtools
+installMethod: MSI
+installers:
+- location: https://robware.net/download/c2f0942d59a42901b18e06ea73a4dc4be8e57670c8973429c5ba5da99f606eb6/RVTools3.11.9.msi
+  sha256: 242253fda3029845f7b966b8cd790776ae26e5a9c41af6a9d0b5d3371c72da22
+  architecture: x64
