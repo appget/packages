@@ -1,0 +1,9 @@
+id: dotnet-core-sdk
+name: Microsoft .NET Core SDK
+version: 3.0.101.14347
+home: https://dotnet.microsoft.com/
+installMethod: Wix
+installers:
+- location: https://download.visualstudio.microsoft.com/download/pr/66adfd75-9c1d-4e44-8d9c-cdc0cbc41104/5288b628601e30b0fa10d64fdaf64287/dotnet-sdk-3.0.101-win-x64.exe
+  sha256: 1e12b47293b049c6969190486dfc9838ce4819f0905a50d0583a52c3fac2e712
+  architecture: x64
