@@ -1,0 +1,9 @@
+id: miniconda2
+name: Miniconda Python 2
+version: 4.6.14
+home: https://conda.io/
+installMethod: NSIS
+installers:
+- location: https://repo.anaconda.com/miniconda/Miniconda2-latest-Windows-x86.exe
+- location: https://repo.anaconda.com/miniconda/Miniconda2-latest-Windows-x86_64.exe
+  architecture: x64
