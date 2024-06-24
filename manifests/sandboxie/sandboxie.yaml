@@ -1,0 +1,7 @@
+id: sandboxie
+name: Sandboxie
+version: 5.26
+home: https://www.sandboxie.com/
+installMethod: Custom
+installers:
+- location: https://www.sandboxie.com/SandboxieInstall.exe
