@@ -1,0 +1,7 @@
+id: wowmatrix
+name: WowMatrix
+version: 8.0.2
+home: https://www.wowmatrix.com/
+installMethod: Custom
+installers:
+- location: http://swupdate.wowmatrix.com/windows/WowMatrix.exe
