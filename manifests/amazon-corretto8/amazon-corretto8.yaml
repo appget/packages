@@ -1,0 +1,9 @@
+id: amazon-corretto8
+name: Amazon Corretto 8
+version: 1.8.0.252
+home: https://corretto.aws/
+installMethod: MSI
+installers:
+- location: https://corretto.aws/downloads/latest/amazon-corretto-8-x86-windows-jdk.msi
+- location: https://corretto.aws/downloads/latest/amazon-corretto-8-x64-windows-jdk.msi
+  architecture: x64
