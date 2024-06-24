@@ -1,0 +1,12 @@
+id: ffsend
+name: Firefox Send CLI
+version: 0.2.52
+home: https://gitlab.com/timvisee/ffsend
+repo: https://github.com/timvisee/ffsend/
+license: GNU General Public License v3.0
+installMethod: Custom
+installers:
+- location: https://github.com/timvisee/ffsend/releases/download/v0.2.52/ffsend-v0.2.52-windows-x64.exe
+  sha256: 28423cc439f7eab871cc28e9d90ec0d35f446642c06d879bf93c3fb7b52f952a
+  architecture: x64
+  minWindowsVersion: 10.0
