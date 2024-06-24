@@ -1,0 +1,13 @@
+id: mpc-hc-clsid2
+name: MPC-HC (fork by clsid2)
+version: 1.9.1
+home: https://github.com/clsid2/mpc-hc
+repo: https://github.com/clsid2/mpc-hc/
+license: GNU General Public License v3.0
+installMethod: Inno
+installers:
+- location: https://github.com/clsid2/mpc-hc/releases/download/1.9.1/MPC-HC.1.9.1.x86.exe
+  sha256: fce6a84e6e6360d40f39803f8ab60a7f1f32124e37cb55815388ca1a14df193e
+- location: https://github.com/clsid2/mpc-hc/releases/download/1.9.1/MPC-HC.1.9.1.x64.exe
+  sha256: 0dfefa7b41122d508af53e14cb398db09827928bbdc3beec0686a7fc87369453
+  architecture: x64
