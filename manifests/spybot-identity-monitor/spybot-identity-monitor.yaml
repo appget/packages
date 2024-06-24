@@ -1,8 +1,8 @@
 id: spybot-identity-monitor
-name: Spybot Identity Monitor
-version: 3.3
+name: Spybot Anti-Beacon
+version: 3.5
 home: https://www.safer-networking.org/products/spybot-identity-monitor/
 installMethod: Inno
 installers:
-- location: https://download.spybot.info/Identity Monitor/SpybotIdentityMonitor-3.3-setup.exe
-  sha256: 474e670cad9d8b0d83771350993ffaeaac21f82d6e534124fc2a3dd045d68038
+- location: https://download.spybot.info/AntiBeacon/SpybotAntiBeacon-3.5-setup.exe
+  sha256: 1afcc083e5bc0da9f6e9721399122fa00774d924078c921b363489c60b109545
