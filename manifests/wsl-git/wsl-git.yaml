@@ -1,0 +1,12 @@
+id: wsl-git
+name: Wslgit
+version: 0.8.0
+home: https://github.com/andy-5/wslgit
+repo: https://github.com/andy-5/wslgit/
+license: MIT License
+installMethod: Custom
+installers:
+- location: https://github.com/andy-5/wslgit/releases/download/v0.8.0/wslgit.exe
+  sha256: 4b97d904349b7513b00355f72cafee332ccefaf1a1ea118b2dd4a34a53ee133b
+  architecture: x64
+  minWindowsVersion: 10.0
