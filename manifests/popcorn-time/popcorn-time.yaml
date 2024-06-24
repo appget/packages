@@ -1,0 +1,13 @@
+id: popcorn-time
+name: Popcorn-Time
+version: 0.4.4
+home: https://popcorntime.app/
+installMethod: NSIS
+installers:
+- location: https://get.popcorntime.app/build/Popcorn-Time-0.4.4-win32-Setup.exe
+  sha256: e9d0cda8253fea8d471764bff498cd9bbb59de7a95c886ce000254d880183c4c
+  minWindowsVersion: 6.1
+- location: https://get.popcorntime.app/build/Popcorn-Time-0.4.4-win64-Setup.exe
+  sha256: 0472b8bf60a1311bc3d04e3c2cf17400fc0325c180fff83c4b33e2d26de585c7
+  architecture: x64
+  minWindowsVersion: 6.1
