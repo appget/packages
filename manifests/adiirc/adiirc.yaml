@@ -1,0 +1,13 @@
+id: adiirc
+name: AdiIRC
+version: 64.3.7
+home: https://www.adiirc.com/
+installMethod: NSIS
+installers:
+- location: https://www.adiirc.com/AdiIRC.3.7.exe
+  sha256: 4f89f27c5f84505b6cd90193f47bdc583c60fee5b82f1627920df8d67fc93d17
+  minWindowsVersion: 6.1
+- location: https://www.adiirc.com/AdiIRC64.3.7.exe
+  sha256: 5498e921ec4a4a340284ed00837635b15278202c886cd593149ebdf0bbbcdd1e
+  architecture: x64
+  minWindowsVersion: 6.1
