@@ -1,0 +1,7 @@
+id: leonflix
+name: Leonflix
+version: 0.7.0
+home: https://leonflix.net/
+installMethod: NSIS
+installers:
+- location: https://leonflix.net/downloads/Leonflix-Installer.exe
