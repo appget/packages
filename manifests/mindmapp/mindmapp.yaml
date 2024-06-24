@@ -1,10 +1,10 @@
 id: mindmapp
-name: Mindmapp
-version: 0.7.16.54
+name: Min
+version: 1.10.1
 home: https://mindmapp.cedoor.org/
 repo: https://github.com/Mindmapp/mindmapp/
 license: MIT License
-installMethod: NSIS
+installMethod: Squirrel
 installers:
-- location: https://github.com/Mindmapp/mindmapp/releases/download/v0.7.16/Mindmapp-0.7.16.exe
-  sha256: 6c82155d0df7cfdb113c41ff796a04138058aa652f01d11d883be334d6fd720e
+- location: https://github.com/minbrowser/min/releases/download/v1.10.1/min-1.10.1-setup.exe
+  sha256: 1dcd277da4b853039cd2751fd1b3892a4d95419c6838dd8ed1de966577553b41
