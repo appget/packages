@@ -1,0 +1,8 @@
+id: free2x-batch-photo-converter
+name: Free2X Batch Photo Converter
+version: 1.0.0.1
+home: http://www.free2x.com/
+installMethod: Inno
+installers:
+- location: http://www.free2x.com/batch-photo-converter/batch-photo-converter-setup.exe
+  minWindowsVersion: 10.0
