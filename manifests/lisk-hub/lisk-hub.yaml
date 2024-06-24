@@ -1,10 +1,10 @@
 id: lisk-hub
 name: Lisk Hub
-version: 1.22.0
-home: https://lisk.io/hub
+version: 1.26.0
+home: https://lisk.io/wallet
 repo: https://github.com/LiskHQ/lisk-desktop/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/LiskHQ/lisk-desktop/releases/download/v1.22.0/lisk-hub-win-1.22.0.exe
-  sha256: edcba8748595116f3310414b24b4bcf9e254c485781a33ec23c2d1ad1077a319
+- location: https://github.com/LiskHQ/lisk-desktop/releases/download/v1.26.0/lisk-win-1.26.0.exe
+  sha256: 1412130c198a0d8947c748abf9d28a564a7c9e2f902bc7836b151c34d1c6c778
