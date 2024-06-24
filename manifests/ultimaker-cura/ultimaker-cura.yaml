@@ -1,0 +1,9 @@
+id: ultimaker-cura
+name: Ultimaker Cura
+version: 4.5.0
+home: https://ultimaker.com/
+installMethod: MSI
+installers:
+- location: https://software.ultimaker.com/cura/Ultimaker_Cura-4.5.0-win64.msi?download=https:%2F%2Fsoftware.ultimaker.com%2Fcura%2FUltimaker_Cura-4.5.0-win64.msi
+  sha256: 3859ff98d478a88e8668cb81b56c04abe86754cc674e9857fd9431a51a207390
+  architecture: x64
