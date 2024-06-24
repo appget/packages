@@ -1,0 +1,7 @@
+id: ryzen-master
+name: AMD Ryzen Master
+version: 1.5.3.0902
+home: https://www.amd.com/en/technologies/ryzen-master
+installMethod: Custom
+installers:
+- location: https://download.amd.com/Desktop/AMD-Ryzen-Master.exe
