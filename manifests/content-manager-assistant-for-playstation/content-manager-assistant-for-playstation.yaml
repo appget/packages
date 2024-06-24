@@ -1,0 +1,7 @@
+id: content-manager-assistant-for-playstation
+name: Content Manager Assistant for PlayStation
+version: 3.56.7933.1204
+home: http://cma.dl.playstation.net/cma/win/en/index.html
+installMethod: Custom
+installers:
+- location: http://cma.dl.playstation.net/cma/module/win/CMASetup.exe
