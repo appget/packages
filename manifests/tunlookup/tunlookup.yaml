@@ -1,9 +1,9 @@
 id: tunlookup
 name: Tunlookup
 version: 3.1.0
-home: https://tunlookup.com/
-repo: https://github.com/thephucit/Tunlookup/
+home: https://thephucit.github.io/tunlookup/
+repo: https://github.com/thephucit/tunlookup/
 installMethod: NSIS
 installers:
-- location: https://github.com/thephucit/Tunlookup/releases/download/v3.1.0/Tunlookup.Setup.3.1.0.exe
+- location: https://github.com/thephucit/tunlookup/releases/download/v3.1.0/Tunlookup.Setup.3.1.0.exe
   sha256: fd9fe7964b31405c11dbf7398e5971db3cb4028215e224606b57d501db98ea93
