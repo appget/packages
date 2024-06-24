@@ -1,0 +1,8 @@
+id: aimp
+name: AIMP
+version: 4.51.2084
+home: http://www.aimp.ru/
+installMethod: Custom
+installers:
+- location: http://aimp.su/storage/acc1353719050e5fa6f28e8d296078a4/aimp_4.51.2084.exe
+  sha256: 499aba4a495ed32994de04ac18fd06ce74c297949a2b16c440823d54391c6ef0
