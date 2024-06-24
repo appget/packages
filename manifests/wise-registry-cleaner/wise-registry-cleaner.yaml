@@ -1,7 +1,9 @@
 id: wise-registry-cleaner
-name: Wise Registry Cleaner
-version: 10.2.7
+name: Wise Disk Cleaner
+version: 10.2.6.777
 home: https://www.wisecleaner.com/
 installMethod: Inno
 installers:
-- location: https://downloads.wisecleaner.com/soft/WRCFree.exe
+- location: https://downloads.wisecleaner.com/soft/WDCFree_10.2.6.777.exe
+  sha256: d80a473089d27e5fd54dec3a70858a62a3c6fcbd13a32406cc3a0e209d406554
+  architecture: x64
