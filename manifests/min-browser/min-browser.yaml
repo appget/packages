@@ -1,7 +1,7 @@
 id: min-browser
 name: Min Browser
 version: 1.13.2
-home: https://minbrowser.github.io/min
+home: https://minbrowser.org/
 repo: https://github.com/minbrowser/min/
 license: Apache License 2.0
 installMethod: Squirrel
