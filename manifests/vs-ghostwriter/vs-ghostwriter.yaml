@@ -1,0 +1,10 @@
+id: vs-ghostwriter
+name: ghostwriter
+version: 1.8.0
+home: https://github.com/michelolvera/vs-ghostwriter/
+repo: https://github.com/michelolvera/vs-ghostwriter/
+installMethod: Inno
+installers:
+- location: https://github.com/michelolvera/vs-ghostwriter/releases/download/1.8.0/ghostwriter_x64_installer.exe
+  sha256: c5421f706415f9f6f2b299993170eabb19f76c73d0e9b472b2a48d0282384b74
+  architecture: x64
