@@ -1,0 +1,11 @@
+id: cmder
+name: Cmder
+version: 1.3.11
+home: http://cmder.net/
+repo: https://github.com/cmderdev/cmder/
+license: MIT License
+installMethod: Custom
+installers:
+- location: https://github.com/cmderdev/cmder/releases/download/v1.3.11/cmder.zip
+  sha256: 588b8f811ca43ef13cb7f958dfff82d23dff4aa267f6bf57834250156da52809
+  architecture: x64
