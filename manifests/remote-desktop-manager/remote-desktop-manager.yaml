@@ -2,7 +2,7 @@ id: remote-desktop-manager
 name: Remote Desktop Manager
 version: 2019.2.21
 home: https://remotedesktopmanager.com/
-installMethod: MSI
+installMethod: AdvancedInstaller
 installers:
-- location: https://cdn.devolutions.net/download/Setup.RemoteDesktopManagerFree.2019.2.21.0.msi
-  sha256: b1a6794f7111d0b88981e0377d50ef7c5b78ce5b5e8bf8624328405e304907a9
+- location: https://cdn.devolutions.net/download/Setup.RemoteDesktopManagerFree.2019.2.21.0.exe
+  sha256: 202e2c0212509282ded509fb1eba325dde64ba94892c9b8f6b18e65798280955
