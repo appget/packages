@@ -1,11 +1,11 @@
 id: 7zip
 name: 7-Zip
-version: 19.00
+version: 19.02
 home: https://www.7-zip.org/
-installMethod: MSI
+installMethod: Custom
 installers:
-- location: https://www.7-zip.org/a/7z1900.msi
-  sha256: b49d55a52bc0eab14947c8982c413d9be141c337da1368a24aa0484cbb5e89cd
-- location: https://www.7-zip.org/a/7z1900-x64.msi
-  sha256: a7803233eedb6a4b59b3024ccf9292a6fffb94507dc998aa67c5b745d197a5dc
+- location: https://www.7-zip.org/a/7z1902.exe
+  sha256: edc3c3cc3068ca51855f1c82557f3623f284178d6b568f668be610f431afb99b
+- location: https://www.7-zip.org/a/7z1902-x64.exe
+  sha256: d58da2bfc27b703906bf82955c10582ecc27f6b2d3e51382ba7956f3c0028894
   architecture: x64
