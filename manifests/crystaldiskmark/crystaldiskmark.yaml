@@ -4,5 +4,5 @@ version: 7.0.0
 home: https://crystalmark.info/
 installMethod: Inno
 installers:
-- location: https://osdn.net/frs/redir.php?m=xtom_us&f=crystaldiskmark%2F71859%2FCrystalDiskMark7_0_0.exe
+- location: https://osdn.net/frs/redir.php?m=constant&f=crystaldiskmark%2F71859%2FCrystalDiskMark7_0_0.exe
   sha256: 3d4c9d64b5be6649507dbd91905aeb1083b058d833c2ff495f9131e6ad7a686c
