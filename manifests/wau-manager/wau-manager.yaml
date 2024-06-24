@@ -1,0 +1,7 @@
+id: wau-manager
+name: WAU Manager
+version: 2.0
+home: https://www.carifred.com/
+installMethod: Custom
+installers:
+- location: https://www.carifred.com/wau_manager/WAU Manager.exe
