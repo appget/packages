@@ -1,0 +1,7 @@
+id: git-fork
+name: Fork - a fast and friendly git client
+version: 1.46.1
+home: https://git-fork.com/
+installMethod: Squirrel
+installers:
+- location: https://git-fork.com/update/win/ForkInstaller.exe
