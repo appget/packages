@@ -1,0 +1,9 @@
+id: nvidia-rtx-voice
+name: NVIDIA RTX Voice
+version: 0.5.12.6
+home: https://nvidia.com/
+installMethod: Custom
+installers:
+- location: https://developer.nvidia.com/rtx/broadcast_engine/secure/NVIDIA_RTX_Voice.exe
+  architecture: x64
+  minWindowsVersion: 10.0
