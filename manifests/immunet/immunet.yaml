@@ -1,0 +1,7 @@
+id: immunet
+name: Immunet
+version: 7.0
+home: https://immunet.com/
+installMethod: NSIS
+installers:
+- location: https://download.immunet.com/binaries/immunet/bin/ImmunetSetup.exe
