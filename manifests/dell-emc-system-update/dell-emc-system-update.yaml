@@ -1,0 +1,10 @@
+id: dell-emc-system-update
+name: DELL EMC System Update
+version: 1.7.0
+home: https://www.dell.com/support/article/en-us/sln310654/dell-emc-system-update-dsu
+installMethod: Custom
+installers:
+- location: https://dl.dell.com/FOLDER05605557M/1/Systems-Management_Application_DVHNP_WN64_1.7.0_A00.EXE
+  sha256: c51bc1d40b9b63587cc2f82f2041fe606fab1d9cf7c3e7f37dde25f6640724ef
+  architecture: x64
+  minWindowsVersion: 6.3
