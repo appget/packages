@@ -1,0 +1,11 @@
+id: caddy
+name: Caddy
+version: 2.0
+home: https://caddyserver.com/
+repo: https://github.com/caddyserver/caddy/
+license: Apache License 2.0
+installMethod: Custom
+installers:
+- location: https://github.com/caddyserver/caddy/releases/download/v2.0.0/caddy_2.0.0_windows_amd64.zip
+  sha256: 84c8a16e5ed80e3094711858fc5f07ad1b49ba66209b6f188a8e5a0f92bed446
+  architecture: x64
