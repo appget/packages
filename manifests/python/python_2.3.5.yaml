@@ -1,0 +1,10 @@
+id: python
+name: Python
+version: 2.3.5
+home: https://www.python.org/
+repo: https://github.com/python/cpython/
+license: Python Software Foundation License
+installMethod: Custom
+installers:
+- location: https://www.python.org/ftp/python/2.3.5/Python-2.3.5.exe
+  sha256: c57a956c67a560d3d318bbc4d1747a49dc142feea760f0e2d1722d9fd9c9b7b9
