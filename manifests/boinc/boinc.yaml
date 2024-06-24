@@ -1,0 +1,8 @@
+id: boinc
+name: BOINC
+version: 7.14.2
+home: https://boinc.berkeley.edu/
+installMethod: Custom
+installers:
+- location: https://boinc.berkeley.edu/dl/boinc_7.14.2_windows_x86_64.exe
+  sha256: a8dfa47c58dcf54d29e77434c1fb5a0e7bfdea66b5f5c128a91104449c263987
