@@ -1,0 +1,12 @@
+id: windows-terminal
+name: Windows Terminal
+version: 0.8.10261
+home: https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701
+repo: https://github.com/microsoft/terminal/
+license: MIT License
+installMethod: Custom
+installers:
+- location: https://github.com/microsoft/terminal/releases/download/v0.8.10261.0/Microsoft.WindowsTerminal_0.8.10261.0_8wekyb3d8bbwe.msixbundle
+  sha256: 73fa2d7a6297b37e3907e02a0d93fa66126865982308fbee09403e9fc751a0bf
+  architecture: x64
+  minWindowsVersion: 10.0
