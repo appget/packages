@@ -1,0 +1,7 @@
+id: java-platform-se-8-online-installer
+name: Java Platform SE 8 U201
+version: 8.0.2010.9
+home: https://oracle.com/
+installMethod: Custom
+installers:
+- location: https://javadl.oracle.com/webapps/download/AutoDL?BundleId=236885_42970487e3af4f5aa5bca3f542482c60
