@@ -1,8 +1,8 @@
 id: karens-replicator
 name: Karen's Replicator
-version: 3.7.5
+version: 4.71.1015
 home: https://www.karenware.com/powertools/karens-replicator-backup-utility
-installMethod: NSIS
+installMethod: Custom
 installers:
-- location: https://www.karenware.com/d/Karens-Replicator-v3.7.5-Setup.exe
-  sha256: 382fc6bc81834d9c5e18c6f87198779c4109c179725c20094e411bde23623011
+- location: https://www.karenware.com/d/vbrun60-setup.exe
+  sha256: 7f7bc59f453539194c2d38fd68fb2b4beb3c1b5b5273cec1b7dd1150b0ea929d
