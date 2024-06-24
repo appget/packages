@@ -1,0 +1,9 @@
+id: vdesk
+name: VDesk
+version: 1.2.0
+home: https://github.com/eksime/VDesk
+repo: https://github.com/eksime/VDesk/
+installMethod: MSI
+installers:
+- location: https://github.com/eksime/VDesk/releases/download/v1.2.0/VDeskSetup.msi
+  sha256: f3971a8845f3baabf2d988187f17ffe21b0397b17e4a68fb1ad92bc6010fde6f
