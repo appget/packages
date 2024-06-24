@@ -1,0 +1,13 @@
+id: openbazaar2
+name: OpenBazaar
+version: 2.4.1
+repo: https://github.com/OpenBazaar/openbazaar-desktop/
+license: MIT License
+installMethod: Squirrel
+installers:
+- location: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.1/OpenBazaar2-2.4.1-Setup-64.exe
+  sha256: 5e696a40658c5a6fc70fe13b7f55d0c400aac5d94b7b90d098202189840a1468
+  architecture: x64
+- location: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.1/OpenBazaar2Client-2.4.1-Setup-64.exe
+  sha256: 6114e338ded9569d75fa0c81ad74ed1efd9f8809db98c3711b1322119bee35d3
+  architecture: x64
