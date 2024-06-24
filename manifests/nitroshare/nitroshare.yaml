@@ -2,7 +2,8 @@ id: nitroshare
 name: NitroShare
 version: 0.3.4
 home: https://nitroshare.net/
-repo: https://github.com/nitroshare/nitroshare-desktop
+repo: https://github.com/nitroshare/nitroshare-desktop/
+license: MIT License
 installMethod: Inno
 installers:
 - location: https://launchpad.net/nitroshare/0.3/0.3.4/+download/nitroshare-0.3.4-windows-x86.exe
