@@ -1,0 +1,8 @@
+id: motrix
+name: Motrix
+version: 1.4.1.280
+home: https://motrix.app/
+installMethod: NSIS
+installers:
+- location: https://dl.motrix.app/release/Motrix-Setup-1.4.1.exe
+  sha256: fa78a33628485dc760840ef648a948327c67b0595951c41c82b0923710210f90
