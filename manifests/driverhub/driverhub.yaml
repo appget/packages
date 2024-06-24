@@ -1,0 +1,7 @@
+id: driverhub
+name: DriverHub
+version: 1.6.1
+home: https://www.drvhub.net/
+installMethod: Custom
+installers:
+- location: https://drvhub.net/app/download/init
