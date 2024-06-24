@@ -1,0 +1,9 @@
+id: another-redis-dsektop-manager
+name: Another.Redis.Dsektop.Manager
+version: 1.1.7
+repo: https://github.com/qishibo/AnotherRedisDesktopManager/
+license: MIT License
+installMethod: NSIS
+installers:
+- location: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.1.7/Another.Redis.Dsektop.Manager.1.1.7.exe
+  sha256: 392cb2e6bb57be7113cbc39283b5ac15079630c1a3c79df781626dc657a97871
