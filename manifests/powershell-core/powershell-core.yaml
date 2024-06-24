@@ -3,6 +3,7 @@ name: PowerShell Core
 version: 7.0.1
 home: https://microsoft.com/PowerShell
 repo: https://github.com/PowerShell/PowerShell/
+license: MIT License
 installMethod: MSI
 installers:
 - location: https://github.com/PowerShell/PowerShell/releases/download/v7.0.1/PowerShell-7.0.1-win-x86.msi
