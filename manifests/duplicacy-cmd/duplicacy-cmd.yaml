@@ -1,0 +1,12 @@
+id: duplicacy-cmd
+name: Duplicacy (Command Line Version)
+version: 2.3.0
+home: https://duplicacy.com/
+repo: https://github.com/gilbertchen/duplicacy/
+installMethod: Custom
+installers:
+- location: https://github.com/gilbertchen/duplicacy/releases/download/v2.3.0/duplicacy_win_i386_2.3.0.exe
+  sha256: 3d0c327e9c75cc8af47194bdc1e6cc4d9251f2bb793441632f880bcf3d0b4c11
+- location: https://github.com/gilbertchen/duplicacy/releases/download/v2.3.0/duplicacy_win_x64_2.3.0.exe
+  sha256: 61728e335ed8658faba50e99872a0fb74a0aacbac90094ffebe801ad4bb89b80
+  architecture: x64
