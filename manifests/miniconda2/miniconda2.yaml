@@ -1,0 +1,11 @@
+id: miniconda2
+name: Miniconda2
+version: 4.7.12.1
+home: https://www.anaconda.com/
+installMethod: NSIS
+installers:
+- location: https://repo.anaconda.com/miniconda/Miniconda2-4.7.12.1-Windows-x86.exe
+  sha256: 0d106228d6a4610b599df965dd6d9bb659329a17e3d693e3274b20291a7c6f94
+- location: https://repo.anaconda.com/miniconda/Miniconda2-4.7.12.1-Windows-x86_64.exe
+  sha256: 8647c54058f11842c37854edeff4d20bc1fbdad8b88d9d34d76fda1630e64846
+  architecture: x64
