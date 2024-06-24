@@ -1,10 +1,10 @@
 id: runlet
 name: Runlet
-version: 3.20200206.3
+version: 4.20200410.3
 home: https://runlet.app/
 repo: https://github.com/runletapp/runlet/
 installMethod: NSIS
 installers:
-- location: https://github.com/runletapp/runlet/releases/download/1.0.0-beta.3/runlet_1.0.0-beta.3_amd64.exe
-  sha256: 075898b32970dd108b39cd47c830c66c1e44b4761b6f85629206848441451878
+- location: https://github.com/runletapp/runlet/releases/download/1.0.0-beta.4/runlet_1.0.0-beta.4_amd64.exe
+  sha256: 478dbc7b76ceb431080c11c7479a88843e6e47eff17113a098eecae067fa4337
   architecture: x64
