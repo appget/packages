@@ -5,8 +5,8 @@ repo: https://github.com/kapitainsky/RcloneBrowser/
 license: MIT License
 installMethod: Inno
 installers:
-- location: https://github.com/kapitainsky/RcloneBrowser/releases/download/1.8.0/rclone-browser-1.8.0-a0b66c6-32-bit.exe
+- location: https://github.com/kapitainsky/RcloneBrowser/releases/download/1.8.0/rclone-browser-1.8.0-a0b66c6-windows-32-bit.exe
   sha256: fcd5d4255cab8537223bb1718327c31c401ad9bc36522732b1acb8bb7096ed67
-- location: https://github.com/kapitainsky/RcloneBrowser/releases/download/1.8.0/rclone-browser-1.8.0-a0b66c6-64-bit.exe
+- location: https://github.com/kapitainsky/RcloneBrowser/releases/download/1.8.0/rclone-browser-1.8.0-a0b66c6-windows-64-bit.exe
   sha256: 5b04bfcb899bfc53bed5b56208d4025e4f0135952900de21c3ed485363637ceb
   architecture: x64
