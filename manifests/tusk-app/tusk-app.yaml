@@ -6,5 +6,7 @@ repo: https://github.com/klaussinani/tusk/
 license: MIT License
 installMethod: NSIS
 installers:
+- location: https://github.com/klaussinani/tusk/releases/download/v0.23.0/tusk-0.23.0.exe
+  sha256: 838b087669b43c54220436e7007035a8c90b4bc94543e9bd9eb5de2961644b05
 - location: https://github.com/klaussinani/tusk/releases/download/v0.23.0/tusk-setup-0.23.0.exe
   sha256: 61958dede28d8447aa222c2e7feb5abd9047d7eb68f8b4dfadc07ed2202585c6
