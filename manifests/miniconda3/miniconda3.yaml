@@ -1,0 +1,9 @@
+id: miniconda3
+name: Miniconda3
+version: 4.5.12
+home: https://www.anaconda.com/
+installMethod: NSIS
+installers:
+- location: https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86.exe
+- location: https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
+  architecture: x64
