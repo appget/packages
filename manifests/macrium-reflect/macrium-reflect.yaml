@@ -1,0 +1,7 @@
+id: macrium-reflect
+name: Macrium Reflect
+version: 7.1.2646
+home: https://www.macrium.com/
+installMethod: Custom
+installers:
+- location: https://updates.macrium.com/reflect/v7/ReflectDLHF.exe
