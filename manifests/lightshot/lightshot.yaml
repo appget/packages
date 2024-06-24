@@ -1,7 +1,7 @@
 id: lightshot
-name: lightshot
-version: 5.5.0.4
-home: https://app.prntscr.com/
+name: XMeters
+version: 3.30
+home: https://entropy6.com/xmeters/downloads/XMetersSetup.exe
 installMethod: Inno
 installers:
-- location: https://app.prntscr.com/build/setup-lightshot.exe
+- location: https://entropy6.com/xmeters/downloads/XMetersSetup.exe
