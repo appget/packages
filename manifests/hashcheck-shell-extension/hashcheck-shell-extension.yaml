@@ -1,0 +1,9 @@
+id: hashcheck-shell-extension
+name: HashCheck Shell Extension
+version: 2.1.11.1
+home: http://www.kliu.org/
+installMethod: Custom
+installers:
+- location: https://code.kliu.org/hashcheck/downloads/HashCheckInstall-latest.exe
+  architecture: x64
+  minWindowsVersion: 6.1
