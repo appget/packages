@@ -1,0 +1,10 @@
+id: connectd
+name: Connectd
+version: 4.5
+home: https://docs.remote.it/connectd-reference/connectd
+repo: https://github.com/remoteit/connectd/
+installMethod: Custom
+installers:
+- location: https://github.com/remoteit/connectd/releases/download/v4.5/connectd.exe
+  sha256: e1ef58586e5a4d51a8a30cc04654b718a458e689369765e6ccfd2f979f7de635
+  minWindowsVersion: 6.1
