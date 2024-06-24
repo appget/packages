@@ -1,7 +1,7 @@
 id: colormania
 name: ColorMania
-version: 6.3
-home: http://www.blacksunsoftware.com/colormania.html
+version: 10.0
+home: https://www.blacksunsoftware.com/colormania.html
 installMethod: Inno
 installers:
 - location: https://www.blacksunsoftware.com/downloads/ColorManiaSetup.exe
