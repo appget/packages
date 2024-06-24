@@ -1,0 +1,9 @@
+id: microsoft-net-framework
+name: Microsoft .NET Framework
+version: 4.7.03081
+home: https://dotnet.microsoft.com
+installMethod: Custom
+installers:
+- location: https://go.microsoft.com/fwlink/?LinkID=863265
+  architecture: x64
+  minWindowsVersion: 6.3
