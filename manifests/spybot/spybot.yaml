@@ -1,8 +1,8 @@
 id: spybot
-name: Spybot - Search & Destroy
-version: 2.7.64.0
+name: Spybot Anti-Beacon
+version: 3.4
 home: https://www.safer-networking.org/
 installMethod: Inno
 installers:
-- location: https://updates2.safer-networking.org/spybot1/spybotsd-2.7.64.0.exe
-  sha256: 770c55cdd8a793e4ecdbcd88003631ce30d0940a7965ed56afb36b0d26cbd68d
+- location: https://download.spybot.info/AntiBeacon/SpybotAntiBeacon-3.4-setup.exe
+  sha256: 4374afd648ef5d31975c34ae0bafd738856982ffa0cbbf459e7082caa7072ea2
