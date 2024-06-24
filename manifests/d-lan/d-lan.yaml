@@ -1,0 +1,8 @@
+id: d-lan
+name: D-LAN
+version: 1.1.0 Beta15 - 2012-12-16_16-22
+home: https://www.d-lan.net/
+installMethod: Inno
+installers:
+- location: https://www.d-lan.net/home.html&dl=D-LAN-1.1.0Beta15-2012-12-16_16-22-Setup.exe&platform=windows
+  sha256: 951a9be69ff5fb6d64262237e6c93f15eee2bf4be0d251f5cb122f22a4c8dae6
