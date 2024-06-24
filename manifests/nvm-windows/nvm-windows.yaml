@@ -1,0 +1,10 @@
+id: nvm-windows
+name: Nvm Windows
+version: 1.1.7
+home: https://github.com/coreybutler/nvm-windows
+repo: https://github.com/coreybutler/nvm-windows/
+license: MIT License
+installMethod: Custom
+installers:
+- location: https://github.com/coreybutler/nvm-windows/releases/download/1.1.7/nvm-setup.zip
+  sha256: 148347df99965f39b3824f627c2ec9675a853e0a8514c90a07d73fcc52598c46
