@@ -1,12 +1,13 @@
 id: adoptopenjdk-jdk-openj
 name: AdoptOpenJDK JDK with Eclipse OpenJ9
-version: 8.0.212.03
+version: 8.0.222.10
 home: https://adoptopenjdk.net/
 repo: https://github.com/AdoptOpenJDK/openjdk8-binaries/
 installMethod: MSI
 installers:
-- location: https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u212-b03_openj9-0.14.0/OpenJDK8U-jdk_x86-32_windows_openj9_8u212b03_openj9-0.14.0.msi
-  sha256: 3e21f96e4b37d5a013d540193194365d9ec54a3e2edffa820dada69c0ea7faf1
-- location: https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u212-b03_openj9-0.14.0/OpenJDK8U-jdk_x64_windows_openj9_8u212b03_openj9-0.14.0.msi
-  sha256: 8849390a92b38362a1078c0d6b21fccaddd638c657273a9797b2d9f99fc91c7f
+- location: https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_windows_hotspot_8u222b10.msi
+  sha256: 7aff67ce15d2381b33108a7e943fb61dffa62628fd5b3db611a81a00948e0261
+  architecture: x64
+- location: https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_windows_hotspot_8u222b10.msi
+  sha256: 54a97f9065c3c741c0d816425bcfc31a69042001bdfd30f8b16b9369441a61b6
   architecture: x64
