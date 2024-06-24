@@ -1,0 +1,7 @@
+id: scite4ahk
+name: SciTE4AutoHotkey
+version: 3.0.06.01
+home: http://fincs.ahk4.net/scite4ahk/
+installMethod: Custom
+installers:
+- location: https://fincs.ahk4.net/scite4ahk/dl/s4ahk-install.exe
