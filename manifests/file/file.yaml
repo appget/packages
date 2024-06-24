@@ -1,7 +1,7 @@
 id: file
 name: File
 version: 5.3.0
-home: http://gnuwin32.sourceforge.net/
+home: http://gnuwin32.sourceforge.net
 repo: https://sourceforge.net/projects/gnuwin32/
 installMethod: Inno
 installers:
