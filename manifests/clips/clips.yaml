@@ -1,6 +1,7 @@
 id: clips
 name: Clips
 version: 0.1.3
+home: https://infiniticlips.com/
 repo: https://github.com/azure06/clips/
 installMethod: NSIS
 installers:
