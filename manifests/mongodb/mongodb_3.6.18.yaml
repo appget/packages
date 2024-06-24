@@ -1,0 +1,11 @@
+id: mongodb
+name: MongoDB
+version: 3.6.18
+home: https://www.mongodb.com/
+repo: https://github.com/mongodb/mongo/
+license: AGPL v3
+installMethod: MSI
+installers:
+- location: https://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.6.18-signed.msi
+  sha256: d6a17f96adcda714f523a4b119419b8bf93269542acee70e2b5e899d6d93efdc
+  architecture: x64
