@@ -1,0 +1,7 @@
+id: eraser
+name: Eraser
+version: 6.2.0.2979
+home: https://eraser.heidi.ie/
+installMethod: Custom
+installers:
+- location: https://downloads.sourceforge.net/project/eraser/latest
