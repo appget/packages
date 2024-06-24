@@ -1,0 +1,7 @@
+id: virtualshield
+name: VirtualShield
+version: 3.2.0
+home: https://virtualshield.com
+installMethod: Custom
+installers:
+- location: https://downloads.virtualshieldcdn.com/apps/windows/VirtualShieldSetup.exe
