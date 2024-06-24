@@ -1,0 +1,13 @@
+id: kvirc
+name: KVIrc
+version: 5.0
+home: https://www.kvirc.net/
+repo: https://github.com/kvirc/KVIrc/
+license: GNU General Public License v2.0
+installMethod: NSIS
+installers:
+- location: https://github.com/kvirc/KVIrc/releases/download/5.0.0/KVIrc-5.0.0-x86.exe
+  sha256: 6e444cd154b5874264dbd6bb0e9d8ba4c14ff88a8f4dc6930f91cfa23f141f11
+- location: https://github.com/kvirc/KVIrc/releases/download/5.0.0/KVIrc-5.0.0-x86_64.exe
+  sha256: 1830a2fb321c466968ea0ce2a142294b4d0b8c7f70bd55575f43ed4611e8c213
+  architecture: x64
