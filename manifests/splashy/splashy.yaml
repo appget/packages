@@ -1,0 +1,9 @@
+id: splashy
+name: Splashy
+version: 2.0.0
+home: https://splashy.art/
+installMethod: Squirrel
+installers:
+- location: https://splashy.art/Splashy-v2.0.exe
+  sha256: 5cdeeec2ca35cf8af5ce3c8dc4b0056fc8002e329fadd41e97f199c273740b11
+  architecture: x64
