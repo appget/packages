@@ -1,0 +1,13 @@
+id: ruby-runtime
+name: Ruby Runtime
+version: 2.6.6.1
+home: https://www.ruby-lang.org/
+repo: https://github.com/ruby/ruby/
+license: Ruby License
+installMethod: Inno
+installers:
+- location: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.6-1/rubyinstaller-2.6.6-1-x86.exe
+  sha256: cfaad6b0e7ccd3f4751eeb124be0f4a729c5cf07f2768d6e9886a03b445b85be
+- location: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.6-1/rubyinstaller-2.6.6-1-x64.exe
+  sha256: fbdf77a3e1fa36e25cf0af1303ac76f67dec7a6f739a829784a299702cad1492
+  architecture: x64
