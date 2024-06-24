@@ -1,7 +1,7 @@
 id: ditto
 name: Ditto
 version: 3.22.20
-home: https://ditto-cp.sourceforge.io/
+home: https://ditto-cp.sourceforge.io
 repo: https://sourceforge.net/projects/ditto-cp/
 installMethod: Inno
 installers:
