@@ -1,0 +1,9 @@
+id: xsplit-gamecaster
+name: XSplit Gamecaster
+version: 4.0.1910.2401
+home: https://www.xsplit.com/
+installMethod: Custom
+installers:
+- location: https://cdn2.xsplit.com/download/gc/4.0.1910.2401/XGC_Installer_4.0.1910.2401.exe
+  sha256: 1518baf94f8085b78a2e39410f6ff79a1e82438042b5df5918b6ef78ff680d1a
+  architecture: x64
