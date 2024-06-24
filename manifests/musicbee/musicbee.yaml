@@ -1,0 +1,8 @@
+id: musicbee
+name: MusicBee
+version: 3.3.7310
+home: https://getmusicbee.com/
+installMethod: Custom
+installers:
+- location: https://www.mediafire.com/file/eo3212yr7370idt/MusicBeeSetup_3_3_Update4.zip/file
+  minWindowsVersion: 6.1
