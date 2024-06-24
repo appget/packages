@@ -1,7 +1,7 @@
 id: mobisaver
-name: EaseUS MobiSaver
-version: 7.6
-home: https://www.easeus.com/mobile-tool/free-iphone-data-recovery.html
+name: EaseUS Todo Backup Free
+version: 11.5
+home: https://www.easeus.com/download/tbf-download.html
 installMethod: Inno
 installers:
-- location: http://down.easeus.com/product/ems_free
+- location: http://down.easeus.com/product/tb_free
