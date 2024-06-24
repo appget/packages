@@ -1,0 +1,7 @@
+id: absolute-uninstaller
+name: Absolute Uninstaller
+version: 5.3.1
+home: https://www.glarysoft.com/
+installMethod: NSIS
+installers:
+- location: https://download.glarysoft.com/ausetup.exe
