@@ -1,0 +1,10 @@
+id: dell-emc-repository-manager
+name: Dell EMC Repository Manager
+version: 3.3.0.627
+home: https://www.dell.com/support/article/en-us/sln283183/support-for-dell-emc-repository-manager-drm
+installMethod: Custom
+installers:
+- location: https://dl.dell.com/FOLDER06019787M/1/DRMInstaller_3.3.0.627.exe
+  sha256: d9432e3edb91010a14ac0a68244cea0e5954a65e49b7698fd42a0ada545e432c
+  architecture: x64
+  minWindowsVersion: 10.0
