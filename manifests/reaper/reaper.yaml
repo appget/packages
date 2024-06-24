@@ -1,0 +1,11 @@
+id: reaper
+name: REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.
+version: 609
+home: https://www.reaper.fm/
+installMethod: NSIS
+installers:
+- location: https://reaper.fm/files/6.x/reaper609-install.exe
+  sha256: 7e7764a2a1830d87313d27b30013604687bd6647e525256d5a02875f8acb9067
+- location: https://reaper.fm/files/6.x/reaper609_x64-install.exe
+  sha256: 25ff9ce8f25c444ba79b1303ba290d64a15eede046273d2e329d51146f5b900c
+  architecture: x64
