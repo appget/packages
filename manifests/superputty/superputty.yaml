@@ -1,0 +1,9 @@
+id: superputty
+name: SuperPuTTY
+version: 1.4.0.9
+home: https://www.facebook.com/superputty
+repo: https://github.com/jimradford/superputty/
+installMethod: MSI
+installers:
+- location: https://github.com/jimradford/superputty/releases/download/1.4.0.9/SuperPuttySetup-1.4.0.9.msi
+  sha256: 1298e59665d02387c6f13b87507b07feaf03e705e95de60bc5841e61bcc7ae27
