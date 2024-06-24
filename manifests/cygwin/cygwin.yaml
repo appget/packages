@@ -1,8 +1,9 @@
 id: cygwin
-name: Cygwin
+name: WizTree
+version: 3.30
 home: https://cygwin.com/
 repo: https://github.com/cygwin/cygwin/
-installMethod: Custom
+installMethod: Inno
 args:
   silent: -q -C Base -P binutils -P curl -P make -P wget
 installers:
