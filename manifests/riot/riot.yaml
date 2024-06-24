@@ -1,0 +1,13 @@
+id: riot
+name: Riot
+version: 1.5.6
+home: https://about.riot.im/
+installMethod: Squirrel
+installers:
+- location: https://packages.riot.im/desktop/install/win32/ia32/Riot Setup 1.5.6.exe
+  sha256: 50af0a5a1c8f0035bf75a297054bd89dfca359c7d58c28ffe459bcbfc989d9bc
+  minWindowsVersion: 6.1
+- location: https://packages.riot.im/desktop/install/win32/x64/Riot Setup 1.5.6.exe
+  sha256: d582092b5b77a624bc6b2bd67306bf7528b4ce24d6c35f727e1dff6b2c88e61f
+  architecture: x64
+  minWindowsVersion: 6.1
