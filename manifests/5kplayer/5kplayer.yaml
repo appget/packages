@@ -1,6 +1,5 @@
 id: 5kplayer
 name: 5KPlayer
-version: 5.8.0
 home: https://www.5kplayer.com/
 installMethod: NSIS
 installers:
