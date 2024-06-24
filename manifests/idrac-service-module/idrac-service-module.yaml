@@ -1,0 +1,10 @@
+id: idrac-service-module
+name: Dell EMC iDRAC Service Module
+version: 19.9.200
+home: https://www.dell.com/support/article/en-us/sln310557/support-for-dell-emc-idrac-service-module
+installMethod: Custom
+installers:
+- location: https://dl.dell.com/FOLDER05931225M/1/Systems-Management_Application_PP4G5_WN64_3.5.0_A00.EXE
+  sha256: b457a00e9bf11fbff9683788a8d6976967458a76b2a3360aa86e66426841b0e8
+  architecture: x64
+  minWindowsVersion: 10.0
