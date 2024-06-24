@@ -1,0 +1,13 @@
+id: fdm
+name: Free Download Manager
+version: 5.1.38.7312
+home: https://www.freedownloadmanager.org/
+installMethod: Inno
+installers:
+- location: https://dn3.freedownloadmanager.org/5/5.1-latest/fdm5_x86_setup.exe
+  sha256: 876566b3e88cee514166011f5fdd3c999f9bbf68eacae5202104eaa2e5036ad9
+  minWindowsVersion: 6.1
+- location: https://dn3.freedownloadmanager.org/5/5.1-latest/fdm5_x64_setup.exe
+  sha256: 0c05843c56eb0411d1baf2ab5d82207ecbad3fcbb7f7cb8eede1b4b43946bd6d
+  architecture: x64
+  minWindowsVersion: 6.1
