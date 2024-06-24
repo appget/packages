@@ -1,0 +1,10 @@
+id: open-shell
+name: Open-Shell
+version: 4.4.131
+home: https://github.com/Open-Shell/Open-Shell-Menu
+repo: https://github.com/Open-Shell/Open-Shell-Menu/
+license: MIT License
+installMethod: Custom
+installers:
+- location: https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.131/OpenShellSetup_4_4_131.exe
+  sha256: 8f8ab7035b7956f58f280a0e92ac6e5736e0ed2ff5430935c7868e243a03f9fa
