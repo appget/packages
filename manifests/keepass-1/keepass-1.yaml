@@ -1,0 +1,9 @@
+id: keepass-1
+name: KeePass 1.x
+version: 1.38
+home: https://keepass.info/
+repo: https://sourceforge.net/projects/keepass/
+installMethod: MSI
+installers:
+- location: https://downloads.sourceforge.net/project/keepass/KeePass 1.x/1.38/KeePass-1.38.msi
+  sha256: ba8297d4144343ec946975711111aba627b0e66a927526b0e5c050b80f1a2aff
