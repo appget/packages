@@ -1,0 +1,9 @@
+id: openwithplusplus
+name: OpenwithPlusPlus
+version: 3.0.0.0.7
+home: https://github.com/stax76/OpenWithPlusPlus
+repo: https://github.com/stax76/OpenWithPlusPlus/
+installMethod: Custom
+installers:
+- location: https://github.com/stax76/OpenWithPlusPlus/releases/download/3.0/OpenWithPP-3.0.0.0.7z
+  sha256: 6db76780189996c3b492bbaf3322e44990ce6178cdd0d5efb88a972b326f8c94
