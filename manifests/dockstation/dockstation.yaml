@@ -1,7 +1,6 @@
 id: dockstation
 name: DockStation
 version: 1.5.1
-home: https://dockstation.io/
 repo: https://github.com/DockStation/dockstation/
 license: Apache License 2.0
 installMethod: NSIS
