@@ -1,0 +1,13 @@
+id: openmw
+name: OpenMW
+version: 0.45.0
+home: https://www.openmw.org/
+repo: https://github.com/OpenMW/openmw/
+license: GNU General Public License v3.0
+installMethod: NSIS
+installers:
+- location: https://github.com/OpenMW/openmw/releases/download/openmw-0.45.0/OpenMW-0.45.0-win32.exe
+  sha256: 45035b1d94ace4b36f2ba9907d9702debf615b97acbc78a9c550c2d29da74b5a
+- location: https://github.com/OpenMW/openmw/releases/download/openmw-0.45.0/OpenMW-0.45.0-win64.exe
+  sha256: a5aec5817973338d621c82e2a4a3f9c900e69ae433c47f5fe6cb621c40dab523
+  architecture: x64
