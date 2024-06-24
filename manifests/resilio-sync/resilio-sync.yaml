@@ -1,0 +1,8 @@
+id: resilio-sync
+name: Resilio Sync
+version: 2.6.1.1319
+home: https://www.resilio.com/
+installMethod: Custom
+installers:
+- location: https://download-cdn.resilio.com/stable/windows64/Resilio-Sync_x64.exe
+  architecture: x64
