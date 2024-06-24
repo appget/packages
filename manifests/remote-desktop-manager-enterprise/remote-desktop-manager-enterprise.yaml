@@ -1,8 +1,8 @@
 id: remote-desktop-manager-enterprise
 name: Remote Desktop Manager Enterprise
-version: 13.6.7
+version: 2020.1.19
 home: https://remotedesktopmanager.com/
-installMethod: MSI
+installMethod: AdvancedInstaller
 installers:
-- location: https://cdn.devolutions.net/download/Setup.RemoteDesktopManager.13.6.7.0.msi
-  sha256: 09c8abe456d12af0b08b34c335d58748bf0db0ccf24335fd743e81bb68be3f71
+- location: https://cdn.devolutions.net/download/Setup.RemoteDesktopManagerFree.2020.1.19.0.exe
+  sha256: ebe0a14923a113994ea283eb60806e8d38b2a7bada195fa907229ac92588a357
