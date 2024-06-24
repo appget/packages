@@ -1,0 +1,8 @@
+id: intellij-idea-edu
+name: IntelliJ IDEA Edu
+version: 201.7223.119
+home: https://www.jetbrains.com/idea-edu/
+installMethod: NSIS
+installers:
+- location: https://download.jetbrains.com/idea/ideaIE-2020.1.1.exe
+  sha256: 6fbca601188cf7f546a0282e2c864cb93be4a30a30dbd2153fbe06d1144234d3
