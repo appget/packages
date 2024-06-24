@@ -1,0 +1,8 @@
+id: free2x-screenshot-capture
+name: Free2X Screenshot Capture
+version: 1.0.0.1
+home: http://www.free2x.com/
+installMethod: Inno
+installers:
+- location: http://www.free2x.com/screenshot-capture/screenshot-capture-setup.exe
+  minWindowsVersion: 10.0
