@@ -1,0 +1,9 @@
+id: amazon-corretto11
+name: Amazon Corretto 11
+version: 11.0.7.10.1
+home: https://corretto.aws/
+installMethod: MSI
+installers:
+- location: https://corretto.aws/downloads/latest/amazon-corretto-11-x64-windows-jdk.msi
+  sha256: ce8ebec7325e5c074186083f224712e913eb6d20c02cab620fcd072e5b8f9628
+  architecture: x64
