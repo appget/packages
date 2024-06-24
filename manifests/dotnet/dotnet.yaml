@@ -1,0 +1,9 @@
+id: dotnet
+name: Microsoft .NET Framework
+version: 4.8.03928
+home: https://dotnet.microsoft.com/download/dotnet-framework/net48
+installMethod: Custom
+installers:
+- location: https://go.microsoft.com/fwlink/?linkid=2088631
+  architecture: x64
+  minWindowsVersion: 6.1
