@@ -1,0 +1,9 @@
+id: total-commander
+name: Total Commander
+version: 9.2.2
+home: https://www.ghisler.com/
+installMethod: Custom
+installers:
+- location: https://totalcommander.ch/win/tcmd922ax32.exe
+- location: https://totalcommander.ch/win/tcmd922ax64.exe
+  architecture: x64
