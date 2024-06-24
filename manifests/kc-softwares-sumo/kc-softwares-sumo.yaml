@@ -1,0 +1,7 @@
+id: kc-softwares-sumo
+name: KC Softwares SUMo
+version: 5.8.12.415
+home: https://www.kcsoftwares.com/
+installMethod: Inno
+installers:
+- location: https://kcsoftwares.com/files/sumo_lite.exe
