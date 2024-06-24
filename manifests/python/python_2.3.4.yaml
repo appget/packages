@@ -1,0 +1,10 @@
+id: python
+name: Python
+version: 2.3.4
+home: https://www.python.org/
+repo: https://github.com/python/cpython/
+license: Python Software Foundation License
+installMethod: Custom
+installers:
+- location: https://www.python.org/ftp/python/2.3.4/Python-2.3.4.exe
+  sha256: 08d5dc9d7b05a0dfdbcbe4f19dccb672bedee126244599796eea85cd9aa07aad
