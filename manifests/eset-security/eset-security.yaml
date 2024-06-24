@@ -1,0 +1,9 @@
+id: eset-security
+name: ESET Security
+version: 10.9.61
+home: https://eset.com/
+installMethod: Custom
+installers:
+- location: https://download.eset.com/com/eset/tools/installers/live_eis/latest/eset_internet_security_live_installer.exe
+  architecture: x64
+  minWindowsVersion: 6.1
