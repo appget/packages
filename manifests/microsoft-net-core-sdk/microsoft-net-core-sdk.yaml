@@ -1,0 +1,9 @@
+id: microsoft-net-core-sdk
+name: Microsoft .NET Core SDK
+version: 2.2.104
+home: https://dotnet.github.io/
+installMethod: Wix
+installers:
+- location: https://download.visualstudio.microsoft.com/download/pr/4a195fc9-7696-4c24-add2-e791b399766c/3a67d698a74505b46db9d9779745e47b/dotnet-sdk-2.2.104-win-x64.exe
+  sha256: 6c377d8e1d860cdc7a070fdabc9378d7e45ba86602994f2b64aeab7d80a29a9d
+  architecture: x64
