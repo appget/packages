@@ -1,0 +1,12 @@
+id: fluentterminal
+name: Fluent Terminal
+version: 0.4.1
+home: https://github.com/felixse/FluentTerminal/
+repo: https://github.com/felixse/FluentTerminal/
+license: GNU General Public License v3.0
+installMethod: Custom
+installers:
+- location: https://github.com/felixse/FluentTerminal/releases/download/0.4.1.0/FluentTerminal.App_0.4.1.0_Test.zip
+  sha256: 1be3d3b5f3f5345c65f6c309d337572240a2e8fcecf02b417d4b1d654e16646c
+  architecture: x64
+  minWindowsVersion: 10.0
