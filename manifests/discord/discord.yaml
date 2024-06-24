@@ -1,7 +1,7 @@
 id: discord
 name: Discord
 version: 0.0.306
-home: https://discordapp.com/
+home: https://discord.com/
 installMethod: Squirrel
 installers:
 - location: https://discordapp.com/api/download?platform=win
