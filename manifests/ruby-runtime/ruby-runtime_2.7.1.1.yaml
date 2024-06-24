@@ -1,0 +1,13 @@
+id: ruby-runtime
+name: Ruby Runtime
+version: 2.7.1.1
+home: https://www.ruby-lang.org/
+repo: https://github.com/ruby/ruby/
+license: Ruby License
+installMethod: Inno
+installers:
+- location: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.1-1/rubyinstaller-2.7.1-1-x86.exe
+  sha256: 0cba593d475ef0dc7dd8b9a7438278062c2be464fbd52218c42463182d82fc66
+- location: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.1-1/rubyinstaller-2.7.1-1-x64.exe
+  sha256: 7a45d7e2dd2de8598d91debd0531a4497eefcc3fd8243840d0ed0f0a8b748380
+  architecture: x64
