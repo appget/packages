@@ -1,0 +1,9 @@
+id: bravesoftware
+name: BraveSoftware
+version: 1.3.99
+home: https://brave.com/
+installMethod: Custom
+installers:
+- location: https://laptop-updates.brave.com/latest/winia32
+- location: https://laptop-updates.brave.com/latest/winx64
+  architecture: x64
