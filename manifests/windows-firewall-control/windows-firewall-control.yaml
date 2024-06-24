@@ -1,0 +1,7 @@
+id: windows-firewall-control
+name: Windows Firewall Control
+version: 5.4.0
+home: https://www.binisoft.org/wfc.php
+installMethod: Custom
+installers:
+- location: https://www.binisoft.org/download/wfc5setup.exe
