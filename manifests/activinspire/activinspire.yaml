@@ -1,0 +1,8 @@
+id: activinspire
+name: ActivInspire
+version: 2.14.67304
+home: https://www.activsoftware.co.uk/
+installMethod: Custom
+installers:
+- location: https://www.activsoftware.co.uk/update/Inspire/update/win/ActivInspire_v2.14.67304_AppOnly_setup.exe
+  sha256: 32c17b292f89b8a7c900499640ce7b360b3d1dfc2d59d745c14dde7599c4299b
