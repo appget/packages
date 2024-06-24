@@ -1,0 +1,13 @@
+id: rclone
+name: Rclone
+version: 1.50.2
+home: https://rclone.org/
+repo: https://github.com/rclone/rclone/
+license: MIT License
+installMethod: Custom
+installers:
+- location: https://github.com/rclone/rclone/releases/download/v1.50.2/rclone-v1.50.2-windows-386.zip
+  sha256: 98cf924fad87208fec80e6d57f265c18c768763443aacc49726a285721f62be9
+- location: https://github.com/rclone/rclone/releases/download/v1.50.2/rclone-v1.50.2-windows-amd64.zip
+  sha256: 1e3191f69886ce0e003ec93d96e5db46a76086699cb20cf0d634d518ad157627
+  architecture: x64
