@@ -1,0 +1,7 @@
+id: icq
+name: ICQ
+version: 10.0.40117
+home: https://icq.com/
+installMethod: Custom
+installers:
+- location: https://hb.bizmrg.com/icq-www/win/x32/icqsetup.exe
