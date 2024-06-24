@@ -1,0 +1,8 @@
+id: monero-gui-wallet
+name: Monero GUI Wallet
+version: 0.14.0.0
+home: https://web.getmonero.org/
+installMethod: Inno
+installers:
+- location: https://downloads.getmonero.org/gui/win64install
+  architecture: x64
