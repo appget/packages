@@ -1,0 +1,13 @@
+id: node-lts
+name: Node.js LTS
+version: 12.14.0.0
+home: https://nodejs.org/
+repo: https://github.com/nodejs/node/
+license: MIT
+installMethod: MSI
+installers:
+- location: https://nodejs.org/download/release/v12.14.0/node-v12.14.0-x86.msi
+  sha256: 6c0e75be48a2410749b58fd7482dd96a689940290f5d7a624f00cbad0b901df8
+- location: https://nodejs.org/download/release/v12.14.0/node-v12.14.0-x64.msi
+  sha256: bd0636856980c1fa855f1d517dcbd288a5619536286e4b1e452e19230355f7d9
+  architecture: x64
