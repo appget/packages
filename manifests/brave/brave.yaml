@@ -1,7 +1,7 @@
 id: brave
 name: Brave
 version: 0.25.2
-home: https://www.brave.com/
+home: https://brave.com/
 repo: https://github.com/brave/browser-laptop/
 installMethod: Squirrel
 installers:
