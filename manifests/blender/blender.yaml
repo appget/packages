@@ -1,11 +1,9 @@
 id: blender
 name: Blender
-version: 2.80.0
-home: https://www.blender.org/
+version: 2.82.1
+home: https://blender.org
 installMethod: MSI
 installers:
-- location: https://download.blender.org/release/Blender2.80/blender-2.80-windows32.msi
-  sha256: 6ed829dc52704398cee1a2481f546813c0b4d724aeb077959946ebf7234ef406
-- location: https://download.blender.org/release/Blender2.80/blender-2.80-windows64.msi
-  sha256: e71084ed45ae96d6cfef9cacaca1a876f09c5b4915872fc6ac0252b7a93b26c5
+- location: https://ftp.nluug.nl/pub/graphics/blender/release/Blender2.82/blender-2.82a-windows64.msi
+  sha256: bb98750a3374c48bb8b321c4e07fa3265afe00d87ea2613efe0001ddc77a3abc
   architecture: x64
