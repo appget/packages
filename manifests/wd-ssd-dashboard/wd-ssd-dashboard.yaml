@@ -1,0 +1,7 @@
+id: wd-ssd-dashboard
+name: Western Digital SSD Dashboard
+version: 2.6.0.0
+home: https://www.westerndigital.com/
+installMethod: Custom
+installers:
+- location: https://wddashboarddownloads.wdc.com/wdDashboard/WesternDigitalSSDDashboardSetup.exe
