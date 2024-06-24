@@ -1,0 +1,9 @@
+id: wincdemu
+name: WinCDEmu
+version: 4.1
+repo: https://github.com/sysprogs/WinCDEmu/
+license: GNU Lesser General Public License v3.0
+installMethod: Custom
+installers:
+- location: https://github.com/sysprogs/WinCDEmu/releases/download/v4.1/WinCDEmu-4.1.exe
+  sha256: c47763631d20120057766f2f71f781bf958e22712da4ac933b21db0d615dc93c
