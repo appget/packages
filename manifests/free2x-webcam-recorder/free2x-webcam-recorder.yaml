@@ -1,0 +1,8 @@
+id: free2x-webcam-recorder
+name: Free2X Webcam Recorder
+version: 1.0.0.1
+home: http://www.free2x.com/webcam-recorder/
+installMethod: Inno
+installers:
+- location: http://www.free2x.com/webcam-recorder/webcamrecordersetup.exe
+  minWindowsVersion: 10.0
