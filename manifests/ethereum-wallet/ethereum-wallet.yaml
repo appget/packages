@@ -1,7 +1,6 @@
 id: ethereum-wallet
 name: Ethereum Wallet
 version: 0.11.1
-home: https://ethereum.org/
 repo: https://github.com/ethereum/mist/
 license: GNU General Public License v3.0
 installMethod: NSIS
