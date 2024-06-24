@@ -1,0 +1,7 @@
+id: hdhomerun
+name: HDHomeRun
+version: 1.0.32576
+home: https://www.silicondust.com/
+installMethod: Custom
+installers:
+- location: https://download.silicondust.com/hdhomerun/hdhomerun_windows.exe
