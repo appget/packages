@@ -1,0 +1,7 @@
+id: stickies
+name: Stickies
+version: 1.0
+home: https://zhornsoftware.co.uk
+installMethod: Custom
+installers:
+- location: https://www.zhornsoftware.co.uk/stickies/stickies_setup_10_0d.exe
