@@ -1,0 +1,8 @@
+id: smart-notebook
+name: SMART Learning Suite
+version: 19.0.1184.2
+home: https://www.smarttech.com/
+installMethod: Custom
+installers:
+- location: https://downloads.smarttech.com/software/education/19.0/win/19.0.1184.2/smart19-0web.exe
+  sha256: ab383e699f3789157a02ef682494007aa76df945ecfe67dace7df185ae5e309b
