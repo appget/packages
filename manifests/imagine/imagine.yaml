@@ -1,0 +1,12 @@
+id: imagine
+name: Imagine image compressor
+version: 0.5.1
+home: https://github.com/meowtec/Imagine
+repo: https://github.com/meowtec/Imagine/
+license: MIT License
+installMethod: NSIS
+installers:
+- location: https://github.com/meowtec/Imagine/releases/download/v0.5.1/Imagine.Setup.0.5.1.exe
+  sha256: e3a9049e3abdbc0e6597f6a2c43c8829a50a3e056bf4fedd87c8c64441af8493
+  architecture: x64
+  minWindowsVersion: 10.0
