@@ -1,0 +1,8 @@
+id: sound-organizer
+name: Sound Organizer
+version: 2.0.02.12112
+home: https://www.sony.com/electronics/support/downloads/00015789
+installMethod: Custom
+installers:
+- location: https://info.update.sony.net/IA002/SoundOrganizer/contents/0001/SoundOrganizerInstaller_V2002.exe
+  sha256: a6b5e3b67f513120034d512598208701800537244d28da32d7c5a50c1ff80f1f
