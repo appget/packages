@@ -1,0 +1,9 @@
+id: streamlabs-obs
+name: Streamlabs OBS
+version: 0.21.2
+home: https://streamlabs.com/streamlabs-obs
+installMethod: NSIS
+installers:
+- location: https://streamlabs.com/slobs/download
+  architecture: x64
+  minWindowsVersion: 6.1
