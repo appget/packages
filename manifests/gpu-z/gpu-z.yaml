@@ -1,0 +1,8 @@
+id: gpu-z
+name: GPU-Z
+version: 2.19.0
+home: https://www.techpowerup.com/gpuz/
+installMethod: Custom
+installers:
+- location: http://us1-dl.techpowerup.com/files/SxflHtwErkhVDkQy9j9YqA/1556571302/GPU-Z.2.19.0.exe
+  sha256: cd2af15397cb148756a61b5d2def14ed91a4649b1295f20dea9a537a398557fc
