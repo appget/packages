@@ -1,11 +1,11 @@
 id: wavebox
 name: wavebox
-version: 4.11.6
+version: 4.11.11
 home: https://wavebox.io/
 repo: https://github.com/wavebox/waveboxapp/
 license: Mozilla Public License 2.0
 installMethod: Squirrel
 installers:
-- location: https://github.com/wavebox/waveboxapp/releases/download/v4.11.6/Install_Wavebox_4_11_6_x64.exe
-  sha256: af7bd122f743028b0f517844e1b0256b983eb96f6b64a52f28cf01d191700d28
+- location: https://github.com/wavebox/waveboxapp/releases/download/v4.11.11/Install_Wavebox_4_11_11_x64.exe
+  sha256: 8a8d5c8b02e60ba3c8a16e5071fff386c191cd82989382f9fc4a9cae50882811
   architecture: x64
