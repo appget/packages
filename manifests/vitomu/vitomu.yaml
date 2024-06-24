@@ -1,10 +1,10 @@
 id: vitomu
 name: Vitomu
-version: 1.2.0.1
+version: 2.0.1
 home: https://www.digimezzo.com/software/vitomu/
 repo: https://github.com/digimezzo/vitomu/
 license: GNU General Public License v3.0
-installMethod: MSI
+installMethod: NSIS
 installers:
-- location: https://www.digimezzo.com/content/software/vitomu/Vitomu 1.2.0.1.msi
-  sha256: ac01e362d4d1aa930c86fbec102cd349c465627a98ccae54c28227a3be351592
+- location: https://github.com/digimezzo/vitomu/releases/download/v2.0.1/Vitomu.Setup.2.0.1.exe
+  sha256: 545f774ad4a42f67202fb491068a2abac9e9bca2c39c54a6fed7c6fed22749d1
