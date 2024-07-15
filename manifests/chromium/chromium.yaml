@@ -1,0 +1,15 @@
+id: chromium
+name: Chromium
+version: 70.0.3538.77
+home: https://www.chromium.org/Home
+repo: https://chromium.googlesource.com/chromium/src.git
+installMethod: Custom
+installers:
+- location: https://github.com/henrypp/chromium/releases/download/v70.0.3538.77-r587811-win64/chromium-sync.exe
+  architecture: x64
+  sha256: f15b44c572dee7ba21215c08c85b9ea265a55c162ff9c2886287c89b405b45c7
+  minWindowsVersion: 6.1
+- location: https://github.com/henrypp/chromium/releases/download/v70.0.3538.77-r587811-win32/chromium-sync.exe
+  architecture: x86
+  sha256: e14b1efff7bad2cec38f681fc1376e7409c3a506c098143a34ad55527c757f16
+  minWindowsVersion: 6.1

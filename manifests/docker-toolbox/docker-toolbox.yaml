@@ -1,0 +1,11 @@
+id: docker-toolbox
+name: Docker Toolbox for Windows
+version: 18.06.1
+home: https://docs.docker.com/toolbox/overview/
+repo: https://github.com/docker/toolbox
+installMethod: Inno
+installers:
+- location: https://github.com/docker/toolbox/releases/download/v18.06.1-ce/DockerToolbox-18.06.1-ce.exe
+  architecture: x64
+  sha256: 5149ec6adf9400634a2cc0461eef39d482b0c90897dcfc2e1368347e935c95d1
+  minWindowsVersion: 6.1
