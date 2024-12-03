@@ -1,0 +1,9 @@
+id: thunderbird
+name: Thunderbird
+version: 60.4.0
+home: https://www.thunderbird.net/
+installMethod: Custom
+installers:
+- location: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/60.4.0/win32/en-GB/Thunderbird Setup 60.4.0.exe
+  sha256: 439d61296756b8e2fe29269805db45b0165299d5c5e145d5867adfa9bfcb76eb
+  minWindowsVersion: 6.1
