@@ -1,8 +1,8 @@
 id: myharmony
 name: MyHarmony
-version: 1.0.308
+version: 7.7.1
 home: https://myharmony.com/
-installMethod: MSI
+installMethod: NSIS
 installers:
-- location: https://app.myharmony.com/prod/win/1.0/MyHarmony-App.msi
-  sha256: 245c352b579a8f79329ca34a1003a496e7834b62011fdd1912775cb81ec19784
+- location: https://cdn-cx-images.dynamite.myharmony.com/software/LogitechHarmonyRemote_7.7.1-WIN-x86.exe
+  sha256: 6c112a4ed845a67d26909a8ad39f766c28c55ac2831076f0b295b0c93aba1957
