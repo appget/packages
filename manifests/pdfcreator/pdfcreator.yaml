@@ -1,7 +1,7 @@
 id: pdfcreator
 name: PDFCreator
-version: 3.5.1.7201
+version: 4.0.4
 home: https://www.pdfforge.org/pdfcreator
-installMethod: Inno
+installMethod: Custom
 installers:
 - location: https://download.pdfforge.org/download/pdfcreator/PDFCreator-stable?download
