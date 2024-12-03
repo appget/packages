@@ -1,0 +1,13 @@
+id: dotnet-core
+name: .NET Core Runtime
+version: 3.1.1.28408
+home: https://dot.net/core
+installMethod: Wix
+installers:
+- location: https://download.visualstudio.microsoft.com/download/pr/662153d9-58c5-4630-a326-ed9e4e342787/1deb6ba6a2a5f5f694b784a6859b446e/windowsdesktop-runtime-3.1.1-win-x86.exe
+  sha256: 9341dcb524e848aae0523c6ce6e145145fbfa1e7bccc5577d8e512bc633ef01b
+  minWindowsVersion: 6.1
+- location: https://download.visualstudio.microsoft.com/download/pr/a1d41522-4da0-42bc-b3f2-e4b7d842974d/03101425368c87c55c1fe7cafbb4e0fb/windowsdesktop-runtime-3.1.1-win-x64.exe
+  sha256: 4e4dad7a11d7335953d9d1caeaecb6f64867328089773e1c0f2a7930baf8e597
+  architecture: x64
+  minWindowsVersion: 6.1
