@@ -1,7 +1,7 @@
 id: folder-size
 name: Folder Size
 version: 2.6
-home: http://foldersize.sourceforge.net
+home: http://foldersize.sourceforge.net/
 installMethod: MSI
 installers:
 - location: https://downloads.sourceforge.net/project/foldersize/foldersize/2.6/FolderSize-2.6-x86.msi
