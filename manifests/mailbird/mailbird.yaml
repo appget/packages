@@ -1,0 +1,7 @@
+id: mailbird
+name: Mailbird
+version: 1.0
+home: https://www.getmailbird.com/
+installMethod: Custom
+installers:
+- location: https://download.getmailbird.com/installers/MailbirdOfflineInstaller.exe
