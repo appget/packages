@@ -1,8 +1,8 @@
 id: criptext
 name: Criptext
-version: 0.26.3
+version: 11.00.17134.941
 home: https://criptext.com/
-installMethod: NSIS
+installMethod: Custom
 installers:
 - location: https://cdn.criptext.com/Criptext-Email-Desktop/windows/Criptext-latest.exe
   architecture: x64
