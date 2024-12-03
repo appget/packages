@@ -1,7 +1,7 @@
 id: jitsi
 name: Jitsi
 version: 2.8.5426
-home: https://jitsi.org/
+home: https://desktop.jitsi.org/
 repo: https://github.com/jitsi/jitsi/
 license: Apache License 2.0
 installMethod: MSI
