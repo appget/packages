@@ -1,8 +1,8 @@
 id: royal-server
 name: Royal Server
-version: 2.1.61015
+version: 5.00.61314
 home: http://www.royal-server.com/
 installMethod: MSI
 installers:
-- location: https://download.royalapplications.com/RoyalServer/RoyalServerInstaller_2.01.61015.0.msi
-  sha256: eee9fcf9fa1c14e4b304ac9ef556dd92c9c00aff425841105510d7c5dfce3df1
+- location: https://download.royalapplications.com/RoyalTS/RoyalTSInstaller_5.00.61314.0.msi
+  sha256: 2ac370f5851c6a9ed2bacab3930d9d294581731525fdb61634b27b2228059a9f
