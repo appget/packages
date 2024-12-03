@@ -1,0 +1,13 @@
+id: total-commander
+name: Total Commander
+version: 9.2.1
+home: https://www.ghisler.com
+installMethod: Custom
+installers:
+- location: https://totalcommander.ch/win/tcmd921ax32.exe
+  sha256: 0ff8a8aff38fc06b536522b4752560d9bc3f60781d0cf93afba201e59b2149a8
+  minWindowsVersion: 6.1
+- location: https://totalcommander.ch/win/tcmd921ax64.exe
+  sha256: 6b978d580701b04c734ad2645a9393b2611b50f78bd9af62c0bb8f3d5b355326
+  architecture: x64
+  minWindowsVersion: 6.1
