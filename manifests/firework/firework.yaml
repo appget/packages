@@ -1,0 +1,7 @@
+id: firework
+name: Firework
+version: 1.0.1.25
+home: https://firework.cloud/en
+installMethod: Custom
+installers:
+- location: https://cdn-firework.com/fw/download/packages/FireworkInstaller.exe
