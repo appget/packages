@@ -1,0 +1,8 @@
+id: firefox-cn
+name: Firefox_CN
+version: 4.42
+home: https://firefox.com.cn/
+installMethod: Custom
+installers:
+- location: https://download-ssl.firefox.com.cn/releases-sha2/stub/official/zh-CN/Firefox-latest.exe
+  architecture: x64
