@@ -1,0 +1,8 @@
+id: wondershare-filmora
+name: Wondershare Filmora
+version: 2.0.10.2
+home: https://www.wondershare.com/
+installMethod: Custom
+installers:
+- location: http://download-de.wondershare.com/video-editor_full1080.exe
+  sha256: 9a0f6fa5ac45e2415057e48df001e256352bd4566949d115dfc5987a8ce362b7
