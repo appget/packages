@@ -1,0 +1,13 @@
+id: криптоарм-гост
+name: КриптоАРМ ГОСТ
+version: 2.2.1
+home: https://cryptoarm.ru/cryptoarm-gost/
+repo: https://github.com/TrustedRu/CryptoARMGOST/
+license: Apache License 2.0
+installMethod: MSI
+installers:
+- location: https://github.com/TrustedRu/CryptoARMGOST/releases/download/v2.2.1/cryptoarm-gost-v2.2.1-win32.msi
+  sha256: 7a9a55bd0363a9168eec718018ed130c75afb7e92f99dbb45393dc5c892c0a9c
+- location: https://github.com/TrustedRu/CryptoARMGOST/releases/download/v2.2.1/cryptoarm-gost-v2.2.1-win32-x64.msi
+  sha256: 244be2c8757429ac2453a2ec947b0fd4ab8c1ab0b0e361dc63361dc4a26fe2b4
+  architecture: x64
