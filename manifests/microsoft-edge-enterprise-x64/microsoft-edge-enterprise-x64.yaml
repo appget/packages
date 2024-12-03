@@ -1,0 +1,10 @@
+id: microsoft-edge-enterprise-x64
+name: Microsoft Edge Enterprise
+version: 79.0.309.65
+home: https://www.microsoft.com/en-us/edge/business/
+installMethod: MSI
+installers:
+- location: http://dl.delivery.mp.microsoft.com/filestreamingservice/files/71919e66-4ee5-4e7c-994b-4a9f1933a15c/MicrosoftEdgeEnterpriseX64.msi
+  sha256: 1c508e761b0e947745aea40f4256040ccc2f18a4ade1b1c6f3a469b644d2f6c3
+  architecture: x64
+  minWindowsVersion: 10.0
